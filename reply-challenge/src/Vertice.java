@@ -10,7 +10,6 @@ public class Vertice {
 
   boolean lock;
 
-
   List<Vertice> adiacenti;
 
   public Vertice(int x, int y, int valore, boolean wormhole) {
@@ -18,8 +17,9 @@ public class Vertice {
     this.y = y;
 
     this.valore = valore;
-
     this.wormhole = wormhole;
+
+    this.lock = false;
 
     this.adiacenti = new ArrayList<>();
   }
