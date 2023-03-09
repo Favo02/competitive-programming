@@ -124,8 +124,21 @@ public class Grafo {
       }
     }
 
-    // for (int i = 0; i < wormholes.size(); i++) {
-    //   var worm = wormholes[i]
-    // }
+    for (int i = 0; i < wormholes.size(); i++) {
+      Vertice worm = wormholes.get(i);
+
+      // adiacenti
+      for (Vertice vertice : worm.adiacenti) {
+
+        for (int j = 0; j < wormholes.size(); j++) {
+          if (i == j) {
+            continue;
+          }
+
+          vertice.addAdiacente(wormholes.get(j));
+        }
+        
+      }
+    }
   }
 }
