@@ -141,4 +141,17 @@ public class Grafo {
       }
     }
   }
+
+  public String toString() {
+    StringBuilder sb = new StringBuilder();
+    for (int y = 0; y < valori[0].length; y++) {
+      for (int x = 0; x < valori.length; x++) {
+        sb.append(valori[x][y].toString());
+        sb.append(' ');
+        sb.append(valori[x][y].adiacenti);
+        sb.append('\n');
+      }
+    }
+    return sb.toString();
+  }
 }

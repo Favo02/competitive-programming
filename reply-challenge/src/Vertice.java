@@ -31,13 +31,37 @@ public class Vertice {
 
   
 
-  @Override
-  public String toString() {
-    return "Vertice [x=" + x + ", y=" + y + ", valore=" + valore + ", wormhole=" + wormhole + ", lock=" + lock
-         + ", sommaIntermedia=" + sommaIntermedia + ", step=" + step + "]";
+  
+
+  public String completeToString() {
+    StringBuilder sb = new StringBuilder();
+    sb.append('x');
+    sb.append(x);
+    sb.append('y');
+    sb.append(y);
+    sb.append(" - valore: ");
+    sb.append(valore);
+    sb.append(" - worm: ");
+    sb.append(wormhole);
+    sb.append(" - lock: ");
+    sb.append(lock);
+    sb.append(" - adiacenti: ");
+    sb.append(adiacenti);
+    sb.append(" - sommaInt: ");
+    sb.append(sommaIntermedia);
+    sb.append(" - step: ");
+    sb.append(step);
+    return sb.toString();
   }
 
-
+  @Override
+  public String toString() {
+    StringBuilder sb = new StringBuilder();
+    sb.append(x);
+    sb.append('-');
+    sb.append(y);
+    return sb.toString();
+  }
 
   public void lock() {
     this.lock = true;

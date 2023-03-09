@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        Input i = Parser.parseInput();
+        Grafo f = new Grafo(i);
+        System.out.println(f);
+    
     }
 }
