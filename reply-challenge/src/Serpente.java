@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class Serpente {
     public Vertice[] vertici;
@@ -30,11 +32,9 @@ public class Serpente {
     }
 
     public void reverse() {
-        for (int i = 0; i < this.segmenti; i++) {
-            Vertice tmp = this.vertici[i];
-            this.vertici[i] = this.vertici[this.segmenti - i];
-            this.vertici[this.segmenti - i] = tmp;
-        }
+        System.out.println(Arrays.toString(vertici));
+        Collections.reverse(Arrays.asList(vertici)); 
+        System.out.println(Arrays.toString(vertici));
     }
     @Override
     public String toString() {
