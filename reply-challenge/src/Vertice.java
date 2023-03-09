@@ -6,16 +6,20 @@ public class Vertice {
   final int y;
 
   final int valore;
+  final boolean wormhole;
 
   boolean lock;
 
+
   List<Vertice> adiacenti;
 
-  public Vertice(int x, int y, int valore) {
+  public Vertice(int x, int y, int valore, boolean wormhole) {
     this.x = x;
     this.y = y;
 
     this.valore = valore;
+
+    this.wormhole = wormhole;
 
     this.adiacenti = new ArrayList<>();
   }
