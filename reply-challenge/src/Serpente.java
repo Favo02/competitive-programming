@@ -1,4 +1,4 @@
-
+import java.util.ArrayList;
 
 public class Serpente {
     public Vertice[] vertici;
@@ -29,6 +29,13 @@ public class Serpente {
         return punteggio;
     }
 
+    public void reverse() {
+        for (int i = 0; i < this.segmenti; i++) {
+            Vertice tmp = this.vertici[i];
+            this.vertici[i] = this.vertici[this.segmenti - i];
+            this.vertici[this.segmenti - i] = tmp;
+        }
+    }
     @Override
     public String toString() {
         /* Devo generare:
