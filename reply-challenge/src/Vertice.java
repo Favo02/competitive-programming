@@ -12,6 +12,9 @@ public class Vertice {
 
   List<Vertice> adiacenti;
 
+  int sommaIntermedia;
+  int step;
+
   public Vertice(int x, int y, int valore, boolean wormhole) {
     this.x = x;
     this.y = y;
