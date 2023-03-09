@@ -17,13 +17,12 @@ public class Input {
 
     @Override
     public String toString() {
-        System.out.println("TOSTRING");
         StringBuilder sb = new StringBuilder();
-        sb.append(String.format("colonne: %d, righe: %d serpenti: %d \n", c, r, s));
+        sb.append(String.format("colonne: %d, righe: %d serpenti: %d \n", c, r, s)); // TODO rimuovere nel caso serva un
+                                                                                     // toString uguale all'input
         sb.append("Serpenti: ");
         sb.append(Arrays.toString(serpenti));
         sb.append('\n');
-        System.out.println(sb.toString());
 
         int curVal;
         for (int y = 0; y < r; y++) {
