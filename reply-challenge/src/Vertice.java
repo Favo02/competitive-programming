@@ -34,7 +34,7 @@ public class Vertice {
   @Override
   public String toString() {
     return "Vertice [x=" + x + ", y=" + y + ", valore=" + valore + ", wormhole=" + wormhole + ", lock=" + lock
-        + ", adiacenti=" + adiacenti + ", sommaIntermedia=" + sommaIntermedia + ", step=" + step + "]";
+         + ", sommaIntermedia=" + sommaIntermedia + ", step=" + step + "]";
   }
 
 
