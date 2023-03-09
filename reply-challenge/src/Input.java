@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Input {
     public int c;
     public int r;
@@ -15,17 +17,22 @@ public class Input {
 
     @Override
     public String toString() {
+        System.out.println("TOSTRING");
         StringBuilder sb = new StringBuilder();
         sb.append(String.format("colonne: %d, righe: %d serpenti: %d \n", c, r, s));
-        for (int serp : serpenti) {
-            sb.append(serp);
-            sb.append(' ');
-        }
+        sb.append("Serpenti: ");
+        sb.append(Arrays.toString(serpenti));
         sb.append('\n');
+        System.out.println(sb.toString());
 
+        int curVal;
         for (int y = 0; y < r; y++) {
-            for (int x = 0; x < r; r++) {
-                sb.append(rawMatrix[x][y]);
+            for (int x = 0; x < c; x++) {
+                curVal = rawMatrix[x][y];
+                if (curVal == Integer.MAX_VALUE)
+                    sb.append('*');
+                else
+                    sb.append(rawMatrix[x][y]);
                 sb.append(' ');
             }
             sb.append('\n');
