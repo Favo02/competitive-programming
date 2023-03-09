@@ -12,7 +12,7 @@ public class Grafo {
 
   public Grafo(Input input) {
 
-    this.valori = new Vertice[input.r][input.c];
+    this.valori = new Vertice[input.c][input.r];
 
     for (int y = 0; y < input.r; y++) {
       for (int x = 0; x < input.c; x++) {
@@ -33,7 +33,7 @@ public class Grafo {
         // angolo alto sinistra
         if (y == 0 && x == 0) {
           valori[x][y].addAdiacente(valori[x][input.r-1]); // up
-          valori[x][y].addAdiacente(valori[x][y-1]); // down
+          valori[x][y].addAdiacente(valori[x][y+1]); // down
           valori[x][y].addAdiacente(valori[x+1][y]); // right
           valori[x][y].addAdiacente(valori[input.c-1][y]); // left
           
@@ -43,7 +43,7 @@ public class Grafo {
         // angolo alto destra
         if (y == 0 && x == input.c-1) {
           valori[x][y].addAdiacente(valori[x][input.r-1]); // up
-          valori[x][y].addAdiacente(valori[x][y-1]); // down
+          valori[x][y].addAdiacente(valori[x][y+1]); // down
           valori[x][y].addAdiacente(valori[0][y]); // right
           valori[x][y].addAdiacente(valori[x-1][y]); // left
           
@@ -52,7 +52,7 @@ public class Grafo {
         
         // angolo basso sinistra
         if (y == input.r-1 && x == 0) {
-          valori[x][y].addAdiacente(valori[x][y+1]); // up
+          valori[x][y].addAdiacente(valori[x][y-1]); // up
           valori[x][y].addAdiacente(valori[x][0]); // down
           valori[x][y].addAdiacente(valori[x+1][y]); // right
           valori[x][y].addAdiacente(valori[input.c-1][y]); // left
@@ -62,7 +62,7 @@ public class Grafo {
         
         // angolo basso destra
         if (y == input.r-1 && x == input.c-1) {
-          valori[x][y].addAdiacente(valori[x][y+1]); // up
+          valori[x][y].addAdiacente(valori[x][y-1]); // up
           valori[x][y].addAdiacente(valori[x][0]); // down
           valori[x][y].addAdiacente(valori[0][y]); // right
           valori[x][y].addAdiacente(valori[x-1][y]); // left
@@ -75,7 +75,7 @@ public class Grafo {
         // prima riga
         if (y == 0) {
           valori[x][y].addAdiacente(valori[x][input.r-1]); // up
-          valori[x][y].addAdiacente(valori[x][y-1]); // down
+          valori[x][y].addAdiacente(valori[x][y+1]); // down
           valori[x][y].addAdiacente(valori[x+1][y]); // right
           valori[x][y].addAdiacente(valori[x-1][y]); // left
           
@@ -83,8 +83,8 @@ public class Grafo {
         }
 
         // ultima riga
-        if (y == input.r) {
-          valori[x][y].addAdiacente(valori[x][y+1]); // up
+        if (y == input.r - 1) {
+          valori[x][y].addAdiacente(valori[x][y-1]); // up
           valori[x][y].addAdiacente(valori[x][0]); // down
           valori[x][y].addAdiacente(valori[x+1][y]); // right
           valori[x][y].addAdiacente(valori[x-1][y]); // left
@@ -94,8 +94,8 @@ public class Grafo {
 
         // prima colonna
         if (x == 0) {
-          valori[x][y].addAdiacente(valori[x][y+1]); // up
-          valori[x][y].addAdiacente(valori[x][y-1]); // down
+          valori[x][y].addAdiacente(valori[x][y-1]); // up
+          valori[x][y].addAdiacente(valori[x][y+1]); // down
           valori[x][y].addAdiacente(valori[x+1][y]); // right
           valori[x][y].addAdiacente(valori[input.c-1][y]); // left
 
@@ -103,17 +103,17 @@ public class Grafo {
         }
 
         // ultima colonna
-        if (x == input.c) {
-          valori[x][y].addAdiacente(valori[x][y+1]); // up
-          valori[x][y].addAdiacente(valori[x][y-1]); // down
+        if (x == input.c - 1) {
+          valori[x][y].addAdiacente(valori[x][y-1]); // up
+          valori[x][y].addAdiacente(valori[x][y+1]); // down
           valori[x][y].addAdiacente(valori[0][y]); // right
           valori[x][y].addAdiacente(valori[x-1][y]); // left
 
           continue;
         }
 
-        valori[x][y].addAdiacente(valori[x][y+1]); // up
-        valori[x][y].addAdiacente(valori[x][y-1]); // down
+        valori[x][y].addAdiacente(valori[x][y-1]); // up
+        valori[x][y].addAdiacente(valori[x][y+1]); // down
         valori[x][y].addAdiacente(valori[x+1][y]); // right
         valori[x][y].addAdiacente(valori[x-1][y]); // left
 
