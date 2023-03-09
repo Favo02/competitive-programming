@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Parser {
@@ -37,7 +38,7 @@ public class Parser {
             splittedLine = line.split(" ");
             x = 0;
             for (String token : splittedLine) {
-                if (token == "*")
+                if (token.equals("*"))
                     rawMatrix[x][y] = Integer.MAX_VALUE;
                 else
                     rawMatrix[x][y] = Integer.parseInt(token);
