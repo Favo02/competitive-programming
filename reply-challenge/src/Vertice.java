@@ -29,14 +29,15 @@ public class Vertice {
     this.adiacenti = new ArrayList<>();
   }
 
+  
+
   @Override
   public String toString() {
-    StringBuilder sb = new StringBuilder();
-    sb.append(x);
-    sb.append('-');
-    sb.append(y);
-    return sb.toString();
+    return "Vertice [x=" + x + ", y=" + y + ", valore=" + valore + ", wormhole=" + wormhole + ", lock=" + lock
+        + ", adiacenti=" + adiacenti + ", sommaIntermedia=" + sommaIntermedia + ", step=" + step + "]";
   }
+
+
 
   public void lock() {
     this.lock = true;
