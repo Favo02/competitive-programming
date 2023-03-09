@@ -154,4 +154,13 @@ public class Grafo {
     }
     return sb.toString();
   }
+
+  public void pulisciGrafo() {
+    for (int y = 0; y < valori[0].length; y++) {
+      for (int x = 0; x < valori.length; x++) {
+        valori[x][y].sommaIntermedia = Integer.MIN_VALUE;
+        valori[x][y].step = -1;
+      }
+    }
+  }
 }
