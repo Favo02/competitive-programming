@@ -22,8 +22,10 @@ public class Vertice {
     this.valore = valore;
     this.wormhole = wormhole;
 
-    this.lock = false;
+    this.sommaIntermedia = Integer.MIN_VALUE;
+    this.step = -1;
 
+    this.lock = false;
     this.adiacenti = new ArrayList<>();
   }
 
