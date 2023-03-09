@@ -9,7 +9,7 @@ public class Parser {
         String line;
         String[] splittedLine;
         int[] serpenti;
-        int[][] rowMatrix;
+        int[][] rawMatrix;
 
         Scanner scanner = new Scanner(System.in);
         line = scanner.nextLine();
@@ -19,7 +19,7 @@ public class Parser {
         s = Integer.parseInt(splittedLine[2]);
 
         serpenti = new int[s];
-        rowMatrix = new int[c][r];
+        rawMatrix = new int[c][r];
 
         line = scanner.nextLine();
         splittedLine = line.split(" ");
@@ -38,14 +38,14 @@ public class Parser {
             x = 0;
             for (String token : splittedLine) {
                 if (token == "*")
-                    rowMatrix[x][y] = Integer.MAX_VALUE;
+                    rawMatrix[x][y] = Integer.MAX_VALUE;
                 else
-                    rowMatrix[x][y] = Integer.parseInt(token);
+                    rawMatrix[x][y] = Integer.parseInt(token);
                 x++;
             }
             y++;
         }
-        return new Input(c, r, s, serpenti, rowMatrix);
+        return new Input(c, r, s, serpenti, rawMatrix);
     }
 
 }
