@@ -20,7 +20,13 @@ public class Serpente {
     }
 
     public int getPunteggio() {
-        
+        int punteggio = 0;
+        for (Vertice vert : this.vertici) {
+            if (!vert.wormhole) {
+                punteggio += vert.valore;
+            }
+        }
+        return punteggio;
     }
 
     @Override
