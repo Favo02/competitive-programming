@@ -23,7 +23,7 @@ public class Ricerca {
         coda.add(curVer);
 
         while (!coda.isEmpty()) {
-            System.out.print(coda);
+            System.out.print("coda: " + coda + "\n");
             curVer = coda.remove();
             if (visitati.contains(curVer))
                 continue;
@@ -46,7 +46,6 @@ public class Ricerca {
             }
         }
 
-        System.out.println("\nAAAAAAAAAAAAAA");
         List<Vertice> tempSerp = new LinkedList<>(); // TODO To remove
         var serpenteFinale = new Serpente(dim);
         serpenteFinale.addVertice(maxVer);
@@ -56,7 +55,7 @@ public class Ricerca {
 
         Vertice curMax = maxVer;
         curVer = maxVer;
-        System.out.println(curVer);
+        System.out.println("curVer:" + curVer);
         List<Vertice> candidati = new LinkedList<>();
         int i = 0;
         while (curVer.step != 1) {
@@ -72,7 +71,9 @@ public class Ricerca {
                 }
             }
             curMax = candidati.get(0);
+            System.out.println("-----------------CANDIDATI-----------------");
             for (Vertice vertice : candidati) {
+                System.out.println(vertice);
                 if (vertice.sommaIntermedia > curMax.sommaIntermedia) {
                     curMax = vertice;
                 }
