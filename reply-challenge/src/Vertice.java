@@ -22,7 +22,11 @@ public class Vertice {
 
   @Override
   public String toString() {
-    return x + "-" + y;
+    StringBuilder sb = new StringBuilder();
+    sb.append(x);
+    sb.append('-');
+    sb.append(y);
+    return sb.toString();
   }
 
   public void lock() {
