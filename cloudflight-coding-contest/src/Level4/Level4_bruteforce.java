@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Level4 {
+public class Level4_bruteforce {
 
   static int N = 0; // Numero tornei
   static int M = 0; // Numero fighters
@@ -14,7 +14,6 @@ public class Level4 {
 
   public static void main(String[] args) {
     var lines = parser();
-    int i = 1;
     for (String line : lines) {
       // System.out.println();
       // System.out.println("Trying lines: " + i++);
@@ -28,7 +27,6 @@ public class Level4 {
   public static String fillContainers(int p, int r, int s) {
     int index = 0;
     int tot = M;
-    int totttt = M;
 
     char[] containers = new char[tot];
 
@@ -62,9 +60,9 @@ public class Level4 {
 
     // System.out.println(Solver.solve(resString));
 
-    long rres = resString.chars().filter(ch -> ch == 'R').count();
-    long pres = resString.chars().filter(ch -> ch == 'P').count();
-    long sres = resString.chars().filter(ch -> ch == 'S').count();
+    // long rres = resString.chars().filter(ch -> ch == 'R').count();
+    // long pres = resString.chars().filter(ch -> ch == 'P').count();
+    // long sres = resString.chars().filter(ch -> ch == 'S').count();
 
     // System.out.print(amountR + "R ");
     // System.out.print(amountP + "P ");
@@ -119,48 +117,6 @@ public class Level4 {
     }
 
     return true;
-  }
-
-  public static String createOutString(List<String> list) {
-    StringBuilder sb = new StringBuilder();
-    for (var item : list) {
-      sb.append(item);
-    }
-    return sb.toString();
-  }
-
-  public static String runLine(String fullLine) {
-    var res = splitRounds(fullLine);
-    for (int i = 0; i < 2; i++) {
-      res = parseLine(res);
-    }
-    return createOutString(res);
-  }
-
-  public static List<String> splitRounds(String fullLine) {
-    List<String> out = new ArrayList<String>();
-    char[] arrayChar = fullLine.toCharArray();
-    for (int i = 0; i < M; i += 2) {
-      out.add(String.format("%s%s", arrayChar[i], arrayChar[i + 1]));
-    }
-    return out;
-  }
-
-  public static List<String> parseLine(List<String> parsedLine) {
-    var newLine = new ArrayList<String>(parsedLine.size() / 2);
-    for (int i = 0; i < parsedLine.size(); i += 2) {
-      var item1 = parsedLine.get(i);
-      var item2 = parsedLine.get(i + 1);
-
-      // System.out.println("i1" + item1);
-      // System.out.println("i2" + item2);
-
-      var winner1 = winner(item1.charAt(0), item1.charAt(1));
-      var winner2 = winner(item2.charAt(0), item2.charAt(1));
-      newLine.add(String.format("%c%c", winner1, winner2));
-    }
-    // System.out.println(newLine);
-    return newLine;
   }
 
   public static List<String> parser() {

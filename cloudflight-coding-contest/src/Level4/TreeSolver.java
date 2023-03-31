@@ -1,7 +1,6 @@
 package Level4;
 
 import java.util.ArrayList;
-import java.util.List;
 
 class A {
   public static void main(String[] args) {
