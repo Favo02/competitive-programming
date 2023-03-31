@@ -5,18 +5,18 @@ import java.util.Scanner;
 
 public class Level3 {
 
-  static int N = 0; // Numero tornei 
+  static int N = 0; // Numero tornei
   static int M = 0; // Numero fighters
   static int amountR, amountP, amountS = 0;
+
   public static void main(String[] args) {
     var lines = parser();
-    int i = 1;
     for (String line : lines) {
-        // System.out.println("Trying lines: " + i++);
-        amountR = Integer.parseInt(line.split(" ")[0].replace("R", ""));
-        amountP = Integer.parseInt(line.split(" ")[1].replace("P", ""));
-        amountS = Integer.parseInt(line.split(" ")[2].replace("S", ""));
-        System.out.println(fillContainers(amountP, amountR, amountS));
+      // System.out.println("Trying lines: " + i++);
+      amountR = Integer.parseInt(line.split(" ")[0].replace("R", ""));
+      amountP = Integer.parseInt(line.split(" ")[1].replace("P", ""));
+      amountS = Integer.parseInt(line.split(" ")[2].replace("S", ""));
+      System.out.println(fillContainers(amountP, amountR, amountS));
     }
   }
 
@@ -35,10 +35,10 @@ public class Level3 {
       if (r > 3 && p > 1) {
         // System.out.print("z");
         containers[index] = 'R';
-        containers[index+1] = 'R';
-        containers[index+2] = 'R';
-        containers[index+3] = 'P';
-        r-=3;
+        containers[index + 1] = 'R';
+        containers[index + 2] = 'R';
+        containers[index + 3] = 'P';
+        r -= 3;
         p--;
         index += 4;
         continue;
@@ -48,7 +48,7 @@ public class Level3 {
         // System.out.print("y");
         // System.out.print(r);
         // System.out.print(p);
-        
+
         containers[index] = 'R';
         r--;
         index++;
@@ -64,7 +64,7 @@ public class Level3 {
 
       if (r > 0 && rcont < 3) {
         // System.out.print("a");
-        
+
         containers[index] = 'R';
         rcont++;
         r--;
@@ -83,39 +83,35 @@ public class Level3 {
 
       if (r == 0 && p > 0) {
         // System.out.print("c");
-        // 
+        //
         containers[index] = 'P';
         p--;
-      index++;
-      continue;
+        index++;
+        continue;
       }
-      
-      if (r==0 && p == 0) {
+
+      if (r == 0 && p == 0) {
         // System.out.print("d");
         containers[index] = 'S';
-        
-      index++;
-      continue;
+
+        index++;
+        continue;
       }
 
     }
 
-    
     // return Arrays.toString(containers);
     return Arrays.toString(containers).replace("[", "").replace(", ", "").replace("]", "");
   }
 
-
-
-  public static String createOutString(List<String> list){
+  public static String createOutString(List<String> list) {
     StringBuilder sb = new StringBuilder();
     for (var item : list) {
-        sb.append(item);
+      sb.append(item);
     }
     return sb.toString();
-      }
-  
-  
+  }
+
   public static String runLine(String fullLine) {
     var res = splitRounds(fullLine);
     for (int i = 0; i < 2; i++) {
@@ -127,27 +123,27 @@ public class Level3 {
   public static List<String> splitRounds(String fullLine) {
     List<String> out = new ArrayList<String>();
     char[] arrayChar = fullLine.toCharArray();
-    for(int i = 0; i < M; i+=2) {
+    for (int i = 0; i < M; i += 2) {
       out.add(String.format("%s%s", arrayChar[i], arrayChar[i + 1]));
     }
     return out;
   }
 
-  public static List<String> parseLine(List<String> parsedLine){
-    var newLine = new ArrayList<String>(parsedLine.size()/2);
-      for (int i = 0; i < parsedLine.size(); i+=2) {
-        var item1 = parsedLine.get(i);
-        var item2 = parsedLine.get(i+1);
+  public static List<String> parseLine(List<String> parsedLine) {
+    var newLine = new ArrayList<String>(parsedLine.size() / 2);
+    for (int i = 0; i < parsedLine.size(); i += 2) {
+      var item1 = parsedLine.get(i);
+      var item2 = parsedLine.get(i + 1);
 
-        // System.out.println("i1" + item1);
-        // System.out.println("i2" + item2);
+      // System.out.println("i1" + item1);
+      // System.out.println("i2" + item2);
 
-        var winner1 = winner(item1.charAt(0), item1.charAt(1));
-        var winner2 = winner(item2.charAt(0), item2.charAt(1));
-        newLine.add(String.format("%c%c", winner1, winner2) );
-      }
-      // System.out.println(newLine);
-      return newLine;
+      var winner1 = winner(item1.charAt(0), item1.charAt(1));
+      var winner2 = winner(item2.charAt(0), item2.charAt(1));
+      newLine.add(String.format("%c%c", winner1, winner2));
+    }
+    // System.out.println(newLine);
+    return newLine;
   }
 
   public static List<String> parser() {
@@ -155,12 +151,12 @@ public class Level3 {
     var lines = new ArrayList<String>();
     int lineIndex = 0;
     while (scanner.hasNext()) {
-      
+
       var line = scanner.nextLine();
       if (lineIndex == 0) {
         N = Integer.parseInt(line.split(" ")[0]);
         M = Integer.parseInt(line.split(" ")[1]);
-        
+
       } else {
         lines.add(line);
       }
