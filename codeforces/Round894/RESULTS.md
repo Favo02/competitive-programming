@@ -1,5 +1,7 @@
 ## Results Codeforces Round 894 (Div. 3)
 
+[codeforces.com/contest/1862](https://codeforces.com/contest/1862)
+
 | |Priblem|Solved (time) |
 |--|--|--|
 | A | Gift Carpet | ✅ (00:25) |
@@ -14,5 +16,5 @@
 ❌ = Some tests failed\
 \- = Not attempted
 
-### Final standing: ...
+### Final standing: 12616 / 19549
 
