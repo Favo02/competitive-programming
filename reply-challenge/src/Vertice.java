@@ -29,10 +29,6 @@ public class Vertice {
     this.adiacenti = new ArrayList<>();
   }
 
-  
-
-  
-
   public String completeToString() {
     StringBuilder sb = new StringBuilder();
     sb.append('x');
@@ -56,11 +52,10 @@ public class Vertice {
 
   @Override
   public String toString() {
-    StringBuilder sb = new StringBuilder();
-    sb.append(x);
-    sb.append('-');
-    sb.append(y);
-    return sb.toString();
+    if (step != -1) {
+      return String.format("[%d]", step);
+    }
+    return String.format("%d-%d", x, y);
   }
 
   public void lock() {
