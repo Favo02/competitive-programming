@@ -12,7 +12,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Codeforces Round 894 (Div. 3)](https://codeforces.com/contest/1862)
-  - Final standing: **10802<sup>nd</sup> / 12530**
+  - Final standing: **10802<sup>nd</sup> / 12214**
   - Score: **2**, Penalty: **68**
   - Rating change: **+422**
 
@@ -34,9 +34,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Codeforces Round 905 (Div. 3)](https://codeforces.com/contest/1883)
-  - Final standing: _waiting for final results_
-  - Score: _waiting for final results_, Penalty: _waiting for final results_
-  - Rating change: _waiting for final results_
+  - Final standing: **7549<sup>th</sup> / 12530**
+  - Score: **1276**
+  - Rating change: **+269**
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
