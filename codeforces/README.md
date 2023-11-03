@@ -50,3 +50,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G2 - [Dances (Hard Version)](https://codeforces.com/contest/1883/problem/G2) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Educational Codeforces Round 157 (Div. 2)</b>
+  </summary>
+
+  - [Educational Codeforces Round 157 (Div. 2)](https://codeforces.com/contest/1895)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **??**
+  - Rating change: **??**
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Treasure Chest](https://codeforces.com/contest/1895/problem/A) | ✅ 00:05 | [A.py](Educational_Round157_Div2/A.py) |
+  | B - [Points and Minimum Distance](https://codeforces.com/contest/1895/problem/B) | ❌ -1 penalty | [B.py](Educational_Round157_Div2/B.py) |
+  | C - [Torn Lucky Ticket](https://codeforces.com/contest/1895/problem/C) | ❌ -4 penalty | [C.py](Educational_Round157_Div2/C.py) |
+  | D - [XOR Construction](https://codeforces.com/contest/1895/problem/D) | ❌ -5 penalty | [D.py](Educational_Round157_Div2/D.py) |
+  | E - [Infinite Card Game](https://codeforces.com/contest/1895/problem/E) | - | - |
+  | F - [Fancy Arrays](https://codeforces.com/contest/1895/problem/F) | - | - |
+  | G - [Two Characters, Two Colors](https://codeforces.com/contest/1895/problem/G) | - | - |
+
+</details>
