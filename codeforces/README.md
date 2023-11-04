@@ -57,9 +57,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Educational Codeforces Round 157 (Div. 2)](https://codeforces.com/contest/1895)
-  - Final standing: **??<sup>th</sup> / ??**
-  - Score: **??**
-  - Rating change: **??**
+  - Final standing: **11234<sup>th</sup> / 14520**
+  - Score: **1**, Penalty: **5**
+  - Rating change: **+153**
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
