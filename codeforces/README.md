@@ -14,7 +14,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   - [Codeforces Round 894 (Div. 3)](https://codeforces.com/contest/1862)
   - Final standing: **10802<sup>nd</sup> / 12214**
   - Score: **2**, Penalty: **68**
-  - Rating change: **+422**
+  - Rating change: **+422** _(now 422, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -36,7 +36,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   - [Codeforces Round 905 (Div. 3)](https://codeforces.com/contest/1883)
   - Final standing: **7549<sup>th</sup> / 12530**
   - Score: **1276**
-  - Rating change: **+269**
+  - Rating change: **+269** _(now 691, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -59,7 +59,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   - [Educational Codeforces Round 157 (Div. 2)](https://codeforces.com/contest/1895)
   - Final standing: **11234<sup>th</sup> / 14520**
   - Score: **1**, Penalty: **5**
-  - Rating change: **+153**
+  - Rating change: **+153** _(now 844, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -70,5 +70,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | E - [Infinite Card Game](https://codeforces.com/contest/1895/problem/E) | - | - |
   | F - [Fancy Arrays](https://codeforces.com/contest/1895/problem/F) | - | - |
   | G - [Two Characters, Two Colors](https://codeforces.com/contest/1895/problem/G) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>Codeforces Round 908 (Div. 2)</b>
+  </summary>
+
+  - [Codeforces Round 908 (Div. 2)](https://codeforces.com/contest/1894)
+  - Final standing: **6964<sup>th</sup> / 10238**
+  - Score: **466**
+  - Rating change: **+108** _(now 952, newbie)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Secret Sport](https://codeforces.com/contest/1894/problem/A) | ✅ 00:17 | [A.py](Round908_Div2/A.py) |
+  | B - [Two Out of Three](https://codeforces.com/contest/1894/problem/B) | - | - |
+  | C - [Anonymous Informant](https://codeforces.com/contest/1894/problem/C) | - | - |
+  | D - [Neutral Tonality](https://codeforces.com/contest/1894/problem/D) | - | - |
+  | E - [Freedom of Choice](https://codeforces.com/contest/1894/problem/E) | - | - |
 
 </details>
