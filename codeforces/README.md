@@ -92,3 +92,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | E - [Freedom of Choice](https://codeforces.com/contest/1894/problem/E) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Codeforces Round 909 (Div. 3)</b>
+  </summary>
+
+  - [Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **4**, Penalty: **163**
+  - Rating change: **??** _(now ??, ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Game with Integers](https://codeforces.com/contest/1899/problem/A) | ✅ 00:05 | [A.py](Round909_Div3/A.py) |
+  | B - [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | ✅ 00:29 | [B.py](Round909_Div3/B.py) |
+  | C - [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | ✅ 00:46 | [C.py](Round909_Div3/C.py) |
+  | D - [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | ❌ -3 penalty | [D.py](Round909_Div3/D.py) |
+  | E - [Queue Sort](https://codeforces.com/contest/1899/problem/E) | ✅ 01:13 (-1 Penalty) | [E.py](Round909_Div3/E.py) |
+  | F - [Alex's whims](https://codeforces.com/contest/1899/problem/F) | - | - |
+  | G - [Unusual Entertainment](https://codeforces.com/contest/1899/problem/G) | - | - |
+
+</details>
