@@ -99,9 +99,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **3135<sup>th</sup> / 9716**
   - Score: **4**, Penalty: **163**
-  - Rating change: **??** _(now ??, ??)_
+  - Rating change: **+175** _(now 1127, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
