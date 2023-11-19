@@ -1,7 +1,7 @@
-import sys
+cases = int(input())
 
-lines = []
-for l in sys.stdin:
-  lines.append(l.rstrip('\n'))
-
-print(lines)
+while cases > 0:
+  cases -= 1
+  line1 = input()
+  line2 = input()
+  print(line1, line2)
