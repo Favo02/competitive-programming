@@ -114,3 +114,24 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Unusual Entertainment](https://codeforces.com/contest/1899/problem/G) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Codeforces Round 910 (Div. 2)</b>
+  </summary>
+
+  - [Codeforces Round 910 (Div. 2)](https://codeforces.com/contest/1898)
+  - Final standing: **3847<sup>th</sup> / 8026**
+  - Score: **476**
+  - Rating change: **+57** _(now 1184, newbie)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Milica and String](https://codeforces.com/contest/1898/problem/A) | ✅ 00:12 | [A.py](Round910_Div2/A.py) |
+  | B - [Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | - | [B.py](Round910_Div2/B.py) |
+  | C - [Colorful Grid](https://codeforces.com/contest/1898/problem/C) | - | - |
+  | D - [Absolute Beauty](https://codeforces.com/contest/1898/problem/D) | - | [D.py](Round910_Div2/D.py) |
+  | E - [Sofia and Strings](https://codeforces.com/contest/1898/problem/E) | ❌ -5 penalty | [E.py](Round910_Div2/E.py) |
+  | F - [Vova Escapes the Matrix](https://codeforces.com/contest/1898/problem/F) | - | - |
+
+</details>
