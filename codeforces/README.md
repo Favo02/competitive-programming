@@ -135,3 +135,24 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | F - [Vova Escapes the Matrix](https://codeforces.com/contest/1898/problem/F) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Educational Codeforces Round 158 (Rated for Div. 2)</b>
+  </summary>
+
+  - [Educational Codeforces Round 158 (Rated for Div. 2)](https://codeforces.com/contest/1901)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **??**
+  - Rating change: **??** _(now ??, ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Line Trip](https://codeforces.com/contest/1901/problem/A) | ✅ 00:08 | [A.py](Educational_Round158_Div2/A.py) |
+  | B - [Chip and Ribbon](https://codeforces.com/contest/1901/problem/B) | ❌ -1 penalty | [B.py](Educational_Round158_Div2/B.py) |
+  | C - [Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | ❌ -2 penalty | [B.py](Educational_Round158_Div2/C.py) |
+  | D - [Yet Another Monster Fight](https://codeforces.com/contest/1901/problem/D) | ❌ -2 penalty | [D.py](Educational_Round158_Div2/D.py) |
+  | E - [Compressed Tree](https://codeforces.com/contest/1901/problem/E) | - | - |
+  | F - [Landscaping](https://codeforces.com/contest/1901/problem/F) | - | - |
+
+</details>
