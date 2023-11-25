@@ -150,9 +150,33 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   |--|--|--|
   | A - [Line Trip](https://codeforces.com/contest/1901/problem/A) | ✅ 00:08 | [A.py](Educational_Round158_Div2/A.py) |
   | B - [Chip and Ribbon](https://codeforces.com/contest/1901/problem/B) | ❌ -1 penalty | [B.py](Educational_Round158_Div2/B.py) |
-  | C - [Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | ❌ -2 penalty | [B.py](Educational_Round158_Div2/C.py) |
+  | C - [Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | ❌ -2 penalty | [C.py](Educational_Round158_Div2/C.py) |
   | D - [Yet Another Monster Fight](https://codeforces.com/contest/1901/problem/D) | ❌ -2 penalty | [D.py](Educational_Round158_Div2/D.py) |
   | E - [Compressed Tree](https://codeforces.com/contest/1901/problem/E) | - | - |
   | F - [Landscaping](https://codeforces.com/contest/1901/problem/F) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)</b>
+  </summary>
+
+  - [CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1896)
+  - Final standing: **5752<sup>th</sup> / 9394**
+  - Score: **1256**
+  - Rating change: **-14** _(now 1136, newbie)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | ✅ 00:07 | [A.py](CodeTON_Round7_Div2/A.py) |
+  | B - [AB Flipping](https://codeforces.com/contest/1896/problem/B) | ✅ 00:26 | [B.py](CodeTON_Round7_Div2/B.py) |
+  | C - [Matching Arrays](https://codeforces.com/contest/1896/problem/C) | ❌ -4 penalty | [C.py](CodeTON_Round7_Div2/C.py) [C.cpp](CodeTON_Round7_Div2/C.cpp) |
+  | D - [Ones and Twos](https://codeforces.com/contest/1896/problem/D) | ❌ -1 penalty | [D.cpp](CodeTON_Round7_Div2/D.cpp) |
+  | E - [Permutation Sorting](https://codeforces.com/contest/1896/problem/E) | - | - |
+  | F - [Bracket Xoring](https://codeforces.com/contest/1896/problem/F) | - | - |
+  | G - [Pepe Racing](https://codeforces.com/contest/1896/problem/F) | - | - |
+  | H1 - [Cyclic Hamming (Easy Version)](https://codeforces.com/contest/1896/problem/F) | - | - |
+  | H2 - [Cyclic Hamming (Hard Version)](https://codeforces.com/contest/1896/problem/F) | - | - |
 
 </details>
