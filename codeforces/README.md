@@ -142,9 +142,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Educational Codeforces Round 158 (Rated for Div. 2)](https://codeforces.com/contest/1901)
-  - Final standing: **??<sup>th</sup> / ??**
-  - Score: **??**
-  - Rating change: **??** _(now ??, ??)_
+  - Final standing: **6907<sup>th</sup> / 11914**
+  - Score: **1**, Penalty: **8**
+  - Rating change: **-34** _(now 1150, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
