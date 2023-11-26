@@ -18,12 +18,12 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Gift Carpet](https://codeforces.com/contest/1862/problem/A) | ✅ 00:25 | [Carpet.js](1862_Round894_Div3/Carpet.js) |
-  | B - [Sequence Game](https://codeforces.com/contest/1862/problem/B) | ✅ 00:43 | [Sequence.js](1862_Round894_Div3/Sequence.js) |
-  | C - [Flower City Fence](https://codeforces.com/contest/1862/problem/C) | ❌ -1 penalty | [Fence.js](1862_Round894_Div3/Fence.js) |
+  | A - [Gift Carpet](https://codeforces.com/contest/1862/problem/A) | ✅ 00:25 | [Carpet.js](Contests/1862_Round894_Div3/Carpet.js) |
+  | B - [Sequence Game](https://codeforces.com/contest/1862/problem/B) | ✅ 00:43 | [Sequence.js](Contests/1862_Round894_Div3/Sequence.js) |
+  | C - [Flower City Fence](https://codeforces.com/contest/1862/problem/C) | ❌ -1 penalty | [Fence.js](Contests/1862_Round894_Div3/Fence.js) |
   | D - [Ice Cream Balls](https://codeforces.com/contest/1862/problem/D) | - | - |
   | E - [Kolya and Movie Theatre](https://codeforces.com/contest/1862/problem/E) | - | - |
-  | F - [Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | ❌ -5 penalties | [Magic.js](1862_Round894_Div3/Magic.js) |
+  | F - [Magic Will Save the World](https://codeforces.com/contest/1862/problem/F) | ❌ -5 penalties | [Magic.js](Contests/1862_Round894_Div3/Magic.js) |
   | G - [The Great Equalizer](https://codeforces.com/contest/1862/problem/G) | - | - |
 
 </details>
@@ -40,13 +40,13 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Morning](https://codeforces.com/contest/1883/problem/A) | ✅ 00:26 | [A.py](1883_Round905_Div3/A.py) |
-  | B - [Chemistry](https://codeforces.com/contest/1883/problem/B) | ✅ 00:43 | [B.py](1883_Round905_Div3/B.py) |
+  | A - [Morning](https://codeforces.com/contest/1883/problem/A) | ✅ 00:26 | [A.py](Contests/1883_Round905_Div3/A.py) |
+  | B - [Chemistry](https://codeforces.com/contest/1883/problem/B) | ✅ 00:43 | [B.py](Contests/1883_Round905_Div3/B.py) |
   | C - [Raspberries](https://codeforces.com/contest/1883/problem/C) | - | - |
-  | D - [In Love](https://codeforces.com/contest/1883/problem/D) | ❌ -3 penalty | [D.py](1883_Round905_Div3/D.py) |
+  | D - [In Love](https://codeforces.com/contest/1883/problem/D) | ❌ -3 penalty | [D.py](Contests/1883_Round905_Div3/D.py) |
   | E - [Look Back](https://codeforces.com/contest/1883/problem/E) | - | - |
   | F - [You Are So Beautiful](https://codeforces.com/contest/1883/problem/F) | - | - |
-  | G1 - [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | ❌ -2 penalty | [G1.py](1883_Round905_Div3/G1.py) |
+  | G1 - [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | ❌ -2 penalty | [G1.py](Contests/1883_Round905_Div3/G1.py) |
   | G2 - [Dances (Hard Version)](https://codeforces.com/contest/1883/problem/G2) | - | - |
 
 </details>
@@ -63,10 +63,10 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Treasure Chest](https://codeforces.com/contest/1895/problem/A) | ✅ 00:05 | [A.py](1895_Educational_Round157_Div2/A.py) |
-  | B - [Points and Minimum Distance](https://codeforces.com/contest/1895/problem/B) | ❌ -1 penalty | [B.py](1895_Educational_Round157_Div2/B.py) |
-  | C - [Torn Lucky Ticket](https://codeforces.com/contest/1895/problem/C) | ❌ -4 penalty | [C.py](1895_Educational_Round157_Div2/C.py) |
-  | D - [XOR Construction](https://codeforces.com/contest/1895/problem/D) | ❌ -5 penalty | [D.py](1895_Educational_Round157_Div2/D.py) |
+  | A - [Treasure Chest](https://codeforces.com/contest/1895/problem/A) | ✅ 00:05 | [A.py](Contests/1895_Educational_Round157_Div2/A.py) |
+  | B - [Points and Minimum Distance](https://codeforces.com/contest/1895/problem/B) | ❌ -1 penalty | [B.py](Contests/1895_Educational_Round157_Div2/B.py) |
+  | C - [Torn Lucky Ticket](https://codeforces.com/contest/1895/problem/C) | ❌ -4 penalty | [C.py](Contests/1895_Educational_Round157_Div2/C.py) |
+  | D - [XOR Construction](https://codeforces.com/contest/1895/problem/D) | ❌ -5 penalty | [D.py](Contests/1895_Educational_Round157_Div2/D.py) |
   | E - [Infinite Card Game](https://codeforces.com/contest/1895/problem/E) | - | - |
   | F - [Fancy Arrays](https://codeforces.com/contest/1895/problem/F) | - | - |
   | G - [Two Characters, Two Colors](https://codeforces.com/contest/1895/problem/G) | - | - |
@@ -85,7 +85,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Secret Sport](https://codeforces.com/contest/1894/problem/A) | ✅ 00:17 | [A.py](1894_Round908_Div2/A.py) |
+  | A - [Secret Sport](https://codeforces.com/contest/1894/problem/A) | ✅ 00:17 | [A.py](Contests/1894_Round908_Div2/A.py) |
   | B - [Two Out of Three](https://codeforces.com/contest/1894/problem/B) | - | - |
   | C - [Anonymous Informant](https://codeforces.com/contest/1894/problem/C) | - | - |
   | D - [Neutral Tonality](https://codeforces.com/contest/1894/problem/D) | - | - |
@@ -105,11 +105,11 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Game with Integers](https://codeforces.com/contest/1899/problem/A) | ✅ 00:05 | [A.py](1899_Round909_Div3/A.py) |
-  | B - [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | ✅ 00:29 | [B.py](1899_Round909_Div3/B.py) |
-  | C - [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | ✅ 00:46 | [C.py](1899_Round909_Div3/C.py) |
-  | D - [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | ❌ -3 penalty | [D.py](1899_Round909_Div3/D.py) |
-  | E - [Queue Sort](https://codeforces.com/contest/1899/problem/E) | ✅ 01:13 (-1 Penalty) | [E.py](1899_Round909_Div3/E.py) |
+  | A - [Game with Integers](https://codeforces.com/contest/1899/problem/A) | ✅ 00:05 | [A.py](Contests/1899_Round909_Div3/A.py) |
+  | B - [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | ✅ 00:29 | [B.py](Contests/1899_Round909_Div3/B.py) |
+  | C - [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | ✅ 00:46 | [C.py](Contests/1899_Round909_Div3/C.py) |
+  | D - [Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | ❌ -3 penalty | [D.py](Contests/1899_Round909_Div3/D.py) |
+  | E - [Queue Sort](https://codeforces.com/contest/1899/problem/E) | ✅ 01:13 (-1 Penalty) | [E.py](Contests/1899_Round909_Div3/E.py) |
   | F - [Alex's whims](https://codeforces.com/contest/1899/problem/F) | - | - |
   | G - [Unusual Entertainment](https://codeforces.com/contest/1899/problem/G) | - | - |
 
@@ -127,11 +127,11 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Milica and String](https://codeforces.com/contest/1898/problem/A) | ✅ 00:12 | [A.py](1898_Round910_Div2/A.py) |
-  | B - [Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | - | [B.py](1898_Round910_Div2/B.py) |
+  | A - [Milica and String](https://codeforces.com/contest/1898/problem/A) | ✅ 00:12 | [A.py](Contests/1898_Round910_Div2/A.py) |
+  | B - [Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | - | [B.py](Contests/1898_Round910_Div2/B.py) |
   | C - [Colorful Grid](https://codeforces.com/contest/1898/problem/C) | - | - |
-  | D - [Absolute Beauty](https://codeforces.com/contest/1898/problem/D) | - | [D.py](1898_Round910_Div2/D.py) |
-  | E - [Sofia and Strings](https://codeforces.com/contest/1898/problem/E) | ❌ -5 penalty | [E.py](1898_Round910_Div2/E.py) |
+  | D - [Absolute Beauty](https://codeforces.com/contest/1898/problem/D) | - | [D.py](Contests/1898_Round910_Div2/D.py) |
+  | E - [Sofia and Strings](https://codeforces.com/contest/1898/problem/E) | ❌ -5 penalty | [E.py](Contests/1898_Round910_Div2/E.py) |
   | F - [Vova Escapes the Matrix](https://codeforces.com/contest/1898/problem/F) | - | - |
 
 </details>
@@ -148,10 +148,10 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Line Trip](https://codeforces.com/contest/1901/problem/A) | ✅ 00:08 | [A.py](1901_Educational_Round158_Div2/A.py) |
-  | B - [Chip and Ribbon](https://codeforces.com/contest/1901/problem/B) | ❌ -1 penalty | [B.py](1901_Educational_Round158_Div2/B.py) |
-  | C - [Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | ❌ -2 penalty | [C.py](1901_Educational_Round158_Div2/C.py) |
-  | D - [Yet Another Monster Fight](https://codeforces.com/contest/1901/problem/D) | ❌ -2 penalty | [D.py](1901_Educational_Round158_Div2/D.py) |
+  | A - [Line Trip](https://codeforces.com/contest/1901/problem/A) | ✅ 00:08 | [A.py](Contests/1901_Educational_Round158_Div2/A.py) |
+  | B - [Chip and Ribbon](https://codeforces.com/contest/1901/problem/B) | ❌ -1 penalty | [B.py](Contests/1901_Educational_Round158_Div2/B.py) |
+  | C - [Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | ❌ -2 penalty | [C.py](Contests/1901_Educational_Round158_Div2/C.py) |
+  | D - [Yet Another Monster Fight](https://codeforces.com/contest/1901/problem/D) | ❌ -2 penalty | [D.py](Contests/1901_Educational_Round158_Div2/D.py) |
   | E - [Compressed Tree](https://codeforces.com/contest/1901/problem/E) | - | - |
   | F - [Landscaping](https://codeforces.com/contest/1901/problem/F) | - | - |
 
@@ -169,10 +169,10 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | ✅ 00:07 | [A.py](1896_CodeTON_Round7_Div2/A.py) |
-  | B - [AB Flipping](https://codeforces.com/contest/1896/problem/B) | ✅ 00:26 | [B.py](1896_CodeTON_Round7_Div2/B.py) |
-  | C - [Matching Arrays](https://codeforces.com/contest/1896/problem/C) | ❌ -4 penalty | [C.py](1896_CodeTON_Round7_Div2/C.py) [C.cpp](1896_CodeTON_Round7_Div2/C.cpp) |
-  | D - [Ones and Twos](https://codeforces.com/contest/1896/problem/D) | ❌ -1 penalty | [D.cpp](1896_CodeTON_Round7_Div2/D.cpp) |
+  | A - [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | ✅ 00:07 | [A.py](Contests/1896_CodeTON_Round7_Div2/A.py) |
+  | B - [AB Flipping](https://codeforces.com/contest/1896/problem/B) | ✅ 00:26 | [B.py](Contests/1896_CodeTON_Round7_Div2/B.py) |
+  | C - [Matching Arrays](https://codeforces.com/contest/1896/problem/C) | ❌ -4 penalty | [C.py](Contests/1896_CodeTON_Round7_Div2/C.py) [C.cpp](Contests/1896_CodeTON_Round7_Div2/C.cpp) |
+  | D - [Ones and Twos](https://codeforces.com/contest/1896/problem/D) | ❌ -1 penalty | [D.cpp](Contests/1896_CodeTON_Round7_Div2/D.cpp) |
   | E - [Permutation Sorting](https://codeforces.com/contest/1896/problem/E) | - | - |
   | F - [Bracket Xoring](https://codeforces.com/contest/1896/problem/F) | - | - |
   | G - [Pepe Racing](https://codeforces.com/contest/1896/problem/F) | - | - |
@@ -193,9 +193,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
-  | A - [Cover in Water](https://codeforces.com/contest/1900/problem/A) | ✅ 00:40 | [A.py](1900_Round911_Div2/A.py) |
-  | B - [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | ❌ -5 penalty | [B.py](1900_Round911_Div2/B.py) |
-  | C - [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | ❌ -4 penalty | [C.py](1900_Round911_Div2/C.py) [C.cpp](1900_Round911_Div2/C.cpp) |
+  | A - [Cover in Water](https://codeforces.com/contest/1900/problem/A) | ✅ 00:40 | [A.py](Contests/1900_Round911_Div2/A.py) |
+  | B - [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | ❌ -5 penalty | [B.py](Contests/1900_Round911_Div2/B.py) |
+  | C - [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | ❌ -4 penalty | [C.py](Contests/1900_Round911_Div2/C.py) [C.cpp](Contests/1900_Round911_Div2/C.cpp) |
   | D - [Small GCD](https://codeforces.com/contest/1900/problem/D) | - | - |
   | E - [Transitive Graph](https://codeforces.com/contest/1900/problem/E) | - | - |
   | F - [Local Deletions](https://codeforces.com/contest/1900/problem/F) | - | - |
