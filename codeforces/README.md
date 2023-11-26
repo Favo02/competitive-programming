@@ -178,7 +178,26 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Pepe Racing](https://codeforces.com/contest/1896/problem/F) | - | - |
   | H1 - [Cyclic Hamming (Easy Version)](https://codeforces.com/contest/1896/problem/H1) | - | - |
   | H2 - [Cyclic Hamming (Hard Version)](https://codeforces.com/contest/1896/problem/H2) | - | - |
-  | H1 - [Cyclic Hamming (Easy Version)](https://codeforces.com/contest/1896/problem/F) | - | - |
-  | H2 - [Cyclic Hamming (Hard Version)](https://codeforces.com/contest/1896/problem/F) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>1900 - Codeforces Round 911 (Div. 2)</b>
+  </summary>
+
+  - [1900 - Codeforces Round 911 (Div. 2))](https://codeforces.com/contest/1900)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **??**
+  - Rating change: **??** _(now ??, ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Cover in Water](https://codeforces.com/contest/1900/problem/A) | ✅ 00:40 | [A.py](1900_Round911_Div2/A.py) |
+  | B - [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | ❌ -5 penalty | [B.py](1900_Round911_Div2/B.py) |
+  | C - [Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | ❌ -4 penalty | [C.py](1900_Round911_Div2/C.py) [C.cpp](1900_Round911_Div2/C.cpp) |
+  | D - [Small GCD](https://codeforces.com/contest/1900/problem/D) | - | - |
+  | E - [Transitive Graph](https://codeforces.com/contest/1900/problem/E) | - | - |
+  | F - [Local Deletions](https://codeforces.com/contest/1900/problem/F) | - | - |
 
 </details>
