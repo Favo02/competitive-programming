@@ -186,10 +186,10 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
     <b>1900 - Codeforces Round 911 (Div. 2)</b>
   </summary>
 
-  - [1900 - Codeforces Round 911 (Div. 2))](https://codeforces.com/contest/1900)
-  - Final standing: **??<sup>th</sup> / ??**
-  - Score: **??**
-  - Rating change: **??** _(now ??, ??)_
+  - [1900 - Codeforces Round 911 (Div. 2)](https://codeforces.com/contest/1900)
+  - Final standing: **8788<sup>th</sup> / 9791**
+  - Score: **370**
+  - Rating change: **-97** _(now 1039 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
