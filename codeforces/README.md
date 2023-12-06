@@ -201,3 +201,26 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | F - [Local Deletions](https://codeforces.com/contest/1900/problem/F) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1907 - Codeforces Round 913 (Div. 3)</b>
+  </summary>
+
+  - [1907 - Codeforces Round 913 (Div. 3)](https://codeforces.com/contest/1907)
+  - Final standing: **3348<sup>th</sup> / 10299**
+  - Score: **3**, Penalty: **79**
+  - Rating change: **+95** _(now 1134 newbie)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Rook](https://codeforces.com/contest/1907/problem/A) | ✅ 00:05 | [A.py](Contests/1907_Round913_Div3/A.py) |
+  | B - [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | ✅ 00:12 | [B.py](Contests/1907_Round913_Div3/B.py) |
+  | C - [Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | ✅ 00:52 (-1 penalty) | [C.py](Contests/1907_Round913_Div3/C.py) |
+  | D - [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | ❌ -2 penalty | [D.py](Contests/1907_Round913_Div3/D.py) |
+  | E - [Good Triples](https://codeforces.com/contest/1907/problem/E) | - | - |
+  | F - [Shift and Reverse](https://codeforces.com/contest/1907/problem/F) | - | - |
+  | G - [Lights](https://codeforces.com/contest/1907/problem/G) | - | - |
+
+</details>
+
