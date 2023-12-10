@@ -31,3 +31,6 @@
 [submodule "Reply Challenge"]
 	path = Reply Challenge
 	url = git@github.com:Favo02/reply-challenge.git
+[submodule "UNIMI-SWERC"]
+	path = UNIMI-SWERC
+	url = git@github.com:Favo02/unimi-swerc.git

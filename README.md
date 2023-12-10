@@ -15,6 +15,7 @@ Container for all my **competitive programming** (and various **events**) reposi
 - [📱 NOI Hackathon Summer 2023 - Skilab](https://github.com/Favo02/skilab): NOI hackathon, mobile app to display open data.
 - [🎛️ NOI Hackathon SFScon 2023 - SensorsMinds](https://github.com/Favo02/sensors-minds): NOI hackathon, collect data from embedded sensors.
 - [🏅 Reply Challenge](https://github.com/Favo02/reply-challenge): annual coding competition by Reply with challenging problems.
+- [🏅 UNIMI-SWERC](https://github.com/Favo02/unimi-swerc): Università degli studi di Milano internal ICPC-style programming competition.
 
 
 
