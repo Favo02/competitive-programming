@@ -11,6 +11,7 @@ Container for all my **competitive programming** (and various **events**) reposi
 - [🏅 ITACPC](https://github.com/Favo02/itacpc): Italian regional ICPC-style programming competition for university teams.
 - [🏋️ Kattis](https://github.com/Favo02/kattis): online judge system and problem archive for practicing programming.
 - [🏋️ LeetCode](https://github.com/Favo02/leetcode): platform with coding challenges for technical interview preparation.
+- [🏅 Meta Hacker Cup](https://github.com/Favo02/meta-hacker-cup): programming competition by Meta to identify top engineering talent.
 
 
 

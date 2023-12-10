@@ -19,3 +19,6 @@
 [submodule "LeetCode"]
 	path = LeetCode
 	url = git@github.com:Favo02/leetcode.git
+[submodule "Meta Hacker Cup"]
+	path = Meta Hacker Cup
+	url = git@github.com:Favo02/meta-hacker-cup.git
