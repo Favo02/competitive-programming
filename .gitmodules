@@ -25,3 +25,6 @@
 [submodule "NOI Hackathon Summer 2023 - Skilab"]
 	path = NOI Hackathon Summer 2023 - Skilab
 	url = git@github.com:Favo02/skilab.git
+[submodule "NOI Hackathon SFScon 2023 - SensorsMinds"]
+	path = NOI Hackathon SFScon 2023 - SensorsMinds
+	url = git@github.com:Favo02/sensors-minds.git
