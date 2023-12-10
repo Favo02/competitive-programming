@@ -1,3 +1,6 @@
 [submodule "Advent of code"]
 	path = Advent of code
 	url = git@github.com:Favo02/advent-of-code.git
+[submodule "Cloudflight Coding Contest"]
+	path = Cloudflight Coding Contest
+	url = git@github.com:Favo02/cloudflight-coding-contest.git
