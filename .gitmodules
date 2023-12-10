@@ -1,0 +1,3 @@
+[submodule "Advent of code"]
+	path = Advent of code
+	url = git@github.com:Favo02/advent-of-code.git
