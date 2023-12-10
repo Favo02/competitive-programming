@@ -4,3 +4,6 @@
 [submodule "Cloudflight Coding Contest"]
 	path = Cloudflight Coding Contest
 	url = git@github.com:Favo02/cloudflight-coding-contest.git
+[submodule "Codeforces"]
+	path = Codeforces
+	url = git@github.com:Favo02/codeforces.git
