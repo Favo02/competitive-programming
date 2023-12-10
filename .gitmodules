@@ -22,3 +22,6 @@
 [submodule "Meta Hacker Cup"]
 	path = Meta Hacker Cup
 	url = git@github.com:Favo02/meta-hacker-cup.git
+[submodule "NOI Hackathon Summer 2023 - Skilab"]
+	path = NOI Hackathon Summer 2023 - Skilab
+	url = git@github.com:Favo02/skilab.git
