@@ -18,8 +18,6 @@ Container for all my **competitive programming** (and various **events**) reposi
 - [🏅 UNIMI-SWERC](https://github.com/Favo02/unimi-swerc): Università degli studi di Milano internal ICPC-style programming competition.
 - Utilities:
   - [📖 Competitive Programming Cheatsheet](https://github.com/Favo02/competitive-programming-cheatsheet): personal cheatsheet for competitive programming.
-
-
-
+  - [☕ Java Algorithms and Structures](https://github.com/Favo02/java-algorithms-and-structures): Java utility classes and algorithms for common coding problems.
 
 _Disclaimer: all the descriptions above are written by ChatGPT (because i'm lazy)._

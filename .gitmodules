@@ -37,3 +37,6 @@
 [submodule "Utilities/Competitive Programming Cheatsheet"]
 	path = Utilities/Competitive Programming Cheatsheet
 	url = git@github.com:Favo02/competitive-programming-cheatsheet.git
+[submodule "Utilities/Java Algorithms and Structures"]
+	path = Utilities/Java Algorithms and Structures
+	url = git@github.com:Favo02/java-algorithms-and-structures.git
