@@ -10,6 +10,7 @@ Container for all my **competitive programming** (and various **events**) reposi
 - [🏋️ HackerRank](https://github.com/Favo02/hacker-rank): platform for coding challenges and competitions to enhance skills.
 - [🏅 ITACPC](https://github.com/Favo02/itacpc): Italian regional ICPC-style programming competition for university teams.
 - [🏋️ Kattis](https://github.com/Favo02/kattis): online judge system and problem archive for practicing programming.
+- [🏋️ LeetCode](https://github.com/Favo02/leetcode): platform with coding challenges for technical interview preparation.
 
 
 

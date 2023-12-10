@@ -16,3 +16,6 @@
 [submodule "Kattis"]
 	path = Kattis
 	url = git@github.com:Favo02/kattis.git
+[submodule "LeetCode"]
+	path = LeetCode
+	url = git@github.com:Favo02/leetcode.git
