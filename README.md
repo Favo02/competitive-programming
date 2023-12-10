@@ -13,7 +13,9 @@ Container for all my **competitive programming** (and various **events**) reposi
 - [🏋️ LeetCode](https://github.com/Favo02/leetcode): platform with coding challenges for technical interview preparation.
 - [🏅 Meta Hacker Cup](https://github.com/Favo02/meta-hacker-cup): programming competition by Meta to identify top engineering talent.
 - [📱 NOI Hackathon Summer 2023 - Skilab](https://github.com/Favo02/skilab): NOI hackathon, mobile app to display open data.
-- [NOI Hackathon SFScon 2023 - SensorsMinds](https://github.com/Favo02/sensors-minds): NOI hackathon, collect data from embedded sensors.
+- [🎛️ NOI Hackathon SFScon 2023 - SensorsMinds](https://github.com/Favo02/sensors-minds): NOI hackathon, collect data from embedded sensors.
+- [🏅 Reply Challenge](https://github.com/Favo02/reply-challenge): annual coding competition by Reply with challenging problems.
+
 
 
 

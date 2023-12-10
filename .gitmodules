@@ -28,3 +28,6 @@
 [submodule "NOI Hackathon SFScon 2023 - SensorsMinds"]
 	path = NOI Hackathon SFScon 2023 - SensorsMinds
 	url = git@github.com:Favo02/sensors-minds.git
+[submodule "Reply Challenge"]
+	path = Reply Challenge
+	url = git@github.com:Favo02/reply-challenge.git
