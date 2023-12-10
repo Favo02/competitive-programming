@@ -34,3 +34,6 @@
 [submodule "UNIMI-SWERC"]
 	path = UNIMI-SWERC
 	url = git@github.com:Favo02/unimi-swerc.git
+[submodule "Utilities/Competitive Programming Cheatsheet"]
+	path = Utilities/Competitive Programming Cheatsheet
+	url = git@github.com:Favo02/competitive-programming-cheatsheet.git
