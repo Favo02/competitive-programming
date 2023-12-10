@@ -8,6 +8,7 @@ Container for all my competitive programming (and various events) repositories.
 - [🏅 Cloudflight Coding Contests](https://github.com/Favo02/cloudflight-coding-contest): competitions by Cloudflight for showcasing programming skills.
 - [🏅 Codeforces](https://github.com/Favo02/codeforces): platform for competitive programming contests and challenges.
 - [🏋️ HackerRank](https://github.com/Favo02/hacker-rank): platform for coding challenges and competitions to enhance skills.
+- [🏅 ITACPC](https://github.com/Favo02/itacpc): Italian regional ICPC-style programming competition for university teams.
 
 
 

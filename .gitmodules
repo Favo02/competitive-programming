@@ -10,3 +10,6 @@
 [submodule "HackerRank"]
 	path = HackerRank
 	url = git@github.com:Favo02/hacker-rank.git
+[submodule "ITACPC"]
+	path = ITACPC
+	url = git@github.com:Favo02/itacpc.git
