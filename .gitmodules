@@ -13,3 +13,6 @@
 [submodule "ITACPC"]
 	path = ITACPC
 	url = git@github.com:Favo02/itacpc.git
+[submodule "Kattis"]
+	path = Kattis
+	url = git@github.com:Favo02/kattis.git

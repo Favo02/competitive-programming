@@ -1,6 +1,6 @@
 ## Competitive programming and Events
 
-Container for all my competitive programming (and various events) repositories.
+Container for all my **competitive programming** (and various **events**) repositories.
 
 ### Index:
 
@@ -9,7 +9,7 @@ Container for all my competitive programming (and various events) repositories.
 - [🏅 Codeforces](https://github.com/Favo02/codeforces): platform for competitive programming contests and challenges.
 - [🏋️ HackerRank](https://github.com/Favo02/hacker-rank): platform for coding challenges and competitions to enhance skills.
 - [🏅 ITACPC](https://github.com/Favo02/itacpc): Italian regional ICPC-style programming competition for university teams.
-
+- [🏋️ Kattis](https://github.com/Favo02/kattis): online judge system and problem archive for practicing programming.
 
 
 
