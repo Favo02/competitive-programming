@@ -224,3 +224,27 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
 
 </details>
 
+<details>
+  <summary>
+    <b>1909 - Pinely Round 3 (Div. 1 + Div. 2)</b>
+  </summary>
+
+  - [1909 - Pinely Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1909)
+  - Final standing: **???<sup>th</sup> / ???**
+  - Score: **486**
+  - Rating change: **??* _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Distinct Buttons](https://codeforces.com/contest/1909/problem/A) | ✅ 00:11 | [A.py](Contests/1909_Pinely_Round3_Div2/A.py) |
+  | B - [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | ❌ -2 penalty | [B.py](Contests/1909_Pinely_Round3_Div2/B.py) |
+  | C - [Heavy Intervals](https://codeforces.com/contest/1909/problem/C) | ❌ -5 penalty | [C.py](Contests/1909_Pinely_Round3_Div2/C.py) |
+  | D - [Split Plus K](https://codeforces.com/contest/1909/problem/D) | - | - |
+  | E - [Multiple Lamps](https://codeforces.com/contest/1909/problem/E) | - | - |
+  | F1 - [Small Permutation Problem (Easy Version)](https://codeforces.com/contest/1909/problem/F1) | - | - |
+  | F2 - [Small Permutation Problem (Hard Version)](https://codeforces.com/contest/1909/problem/F2) | - | - |
+  | G - [Pumping Lemma](https://codeforces.com/contest/1909/problem/G) | - | - |
+  | H - [Parallel Swaps Sort](https://codeforces.com/contest/1909/problem/H) | - | - |
+  | I - [Short Permutation Problem](https://codeforces.com/contest/1909/problem/I) | - | - |
+
+</details>
