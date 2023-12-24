@@ -230,9 +230,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1909 - Pinely Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1909)
-  - Final standing: **???<sup>th</sup> / ???**
+  - Final standing: **6652<sup>th</sup> / 10976**
   - Score: **486**
-  - Rating change: **??* _(now ?? ??)_
+  - Rating change: **-17* _(now 1125 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
