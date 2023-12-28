@@ -230,7 +230,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1909 - Pinely Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1909)
-  - Final standing: **6652<sup>th</sup> / 10976**
+  - Final standing: **6652<sup>nd</sup> / 10976**
   - Score: **486**
   - Rating change: **-17* _(now 1125 newbie)_
 
@@ -246,5 +246,27 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Pumping Lemma](https://codeforces.com/contest/1909/problem/G) | - | - |
   | H - [Parallel Swaps Sort](https://codeforces.com/contest/1909/problem/H) | - | - |
   | I - [Short Permutation Problem](https://codeforces.com/contest/1909/problem/I) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>1915 - Codeforces Round 918 (Div. 4)</b>
+  </summary>
+
+  - [1915 - Codeforces Round 918 (Div. 4)](https://codeforces.com/contest/1915)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **4**, Penalty: **149**
+  - Rating change: **??* _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Odd One Out](https://codeforces.com/contest/1915/problem/A) | ✅ 00:03 | [A.py](Contests/1915_Round918_Div4/A.py) |
+  | B - [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | ✅ 00:05 | [B.py](Contests/1915_Round918_Div4/B.py) |
+  | C - [Can I Square?](https://codeforces.com/contest/1915/problem/C) | ✅ 00:09 | [C.py](Contests/1915_Round918_Div4/C.py) |
+  | D - [Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | ✅ 01:32 (-4 penalty) | [D.py](Contests/1915_Round918_Div4/D.py) |
+  | E - [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | - | [E.py](Contests/1915_Round918_Div4/E.py) |
+  | F - [Greetings](https://codeforces.com/contest/1915/problem/F) | ❌ -2 penalty | [F.py](Contests/1915_Round918_Div4/F.py) |
+  | G - [Bicycles](https://codeforces.com/contest/1915/problem/G) | - | - |
 
 </details>
