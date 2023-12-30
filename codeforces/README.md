@@ -270,3 +270,29 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Bicycles](https://codeforces.com/contest/1915/problem/G) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1916 - Good Bye 2023</b>
+  </summary>
+
+  - [1916 - Good Bye 2023](https://codeforces.com/contest/1916)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **115**
+  - Rating change: **??** _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [2023](https://codeforces.com/contest/1916/problem/A) | ✅ 00:35 (-2 penalty) | [A.py](Contests/1916_GoodBye2023/A.py) |
+  | B - [Two Divisors](https://codeforces.com/contest/1916/problem/B) | ❌ -2 penalty | [B.py](Contests/1916_GoodBye2023/B.py) |
+  | C - [Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | - | [C.py](Contests/1916_GoodBye2023/C.py) |
+  | D - [Mathematical Problem](https://codeforces.com/contest/1916/problem/D) | - | - |
+  | E - [Happy Life in University](https://codeforces.com/contest/1916/problem/E) | - | - |
+  | F - [Group Division](https://codeforces.com/contest/1916/problem/F) | - | - |
+  | G - [Optimizations From Chelsu](https://codeforces.com/contest/1916/problem/G) | - | - |
+  | H1 - [Matrix Rank (Easy Version)](https://codeforces.com/contest/1916/problem/H1) | - | - |
+  | H2 - [Matrix Rank (Hard Version)](https://codeforces.com/contest/1916/problem/H2) | - | - |
+
+
+
+</details>
