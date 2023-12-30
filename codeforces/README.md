@@ -232,7 +232,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   - [1909 - Pinely Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1909)
   - Final standing: **6652<sup>nd</sup> / 10976**
   - Score: **486**
-  - Rating change: **-17* _(now 1125 newbie)_
+  - Rating change: **-17** _(now 1125 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -255,9 +255,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1915 - Codeforces Round 918 (Div. 4)](https://codeforces.com/contest/1915)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **9105<sup>th</sup> / 12336**
   - Score: **4**, Penalty: **149**
-  - Rating change: **??* _(now ?? ??)_
+  - Rating change: **-13** _(now 1115 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
