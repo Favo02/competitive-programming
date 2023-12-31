@@ -277,9 +277,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1916 - Good Bye 2023](https://codeforces.com/contest/1916)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **15034<sup>th</sup> / 18653**
   - Score: **115**
-  - Rating change: **??** _(now ?? ??)_
+  - Rating change: **-61** _(now 1054 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -292,7 +292,5 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Optimizations From Chelsu](https://codeforces.com/contest/1916/problem/G) | - | - |
   | H1 - [Matrix Rank (Easy Version)](https://codeforces.com/contest/1916/problem/H1) | - | - |
   | H2 - [Matrix Rank (Hard Version)](https://codeforces.com/contest/1916/problem/H2) | - | - |
-
-
 
 </details>
