@@ -301,9 +301,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1919 - Hello 2024](https://codeforces.com/contest/1919)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **3067<sup>th</sup> / 21065**
   - Score: **1465**
-  - Rating change: **??** _(now ?? ??)_
+  - Rating change: **+180** _(now 1234 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
