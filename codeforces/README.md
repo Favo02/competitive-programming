@@ -294,3 +294,27 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | H2 - [Matrix Rank (Hard Version)](https://codeforces.com/contest/1916/problem/H2) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1919 - Hello 2024</b>
+  </summary>
+
+  - [1919 - Hello 2024](https://codeforces.com/contest/1919)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **1465**
+  - Rating change: **??** _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Wallet Exchange](https://codeforces.com/contest/1919/problem/A) | ✅ 00:04 | [A.py](Contests/1919_Hello2024/A.py) |
+  | B - [Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) | ✅ 00:11 | [B.py](Contests/1919_Hello2024/B.py) |
+  | C - [Grouping Increases](https://codeforces.com/contest/1919/problem/C) | ✅ 01:23 | [C.py](Contests/1919_Hello2024/C.py) |
+  | D - [01 Tree](https://codeforces.com/contest/1919/problem/D) | - | - |
+  | E - [Counting Prefixes](https://codeforces.com/contest/1919/problem/E) | - | [E.py](Contests/1919_Hello2024/E.py) |
+  | F1 - [Wine Factory (Easy Version)](https://codeforces.com/contest/1919/problem/F1) | - | - |
+  | F2 - [Wine Factory (Hard Version)](https://codeforces.com/contest/1919/problem/F2) | - | - |
+  | G - [Tree LGM](https://codeforces.com/contest/1919/problem/G) | - | - |
+  | H - [Tree Diameter](https://codeforces.com/contest/1919/problem/H) | - | - |
+
+</details>
