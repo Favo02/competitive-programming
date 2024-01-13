@@ -318,3 +318,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | H - [Tree Diameter](https://codeforces.com/contest/1919/problem/H) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1920 - Codeforces Round 919 (Div. 2)</b>
+  </summary>
+
+  - [1920 - Codeforces Round 919 (Div. 2)](https://codeforces.com/contest/1919)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **1160**
+  - Rating change: **??** _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | ✅ 00:34 | [A.py](Contests/1920_Round919_Div2/A.py) |
+  | B - [Summation Game](https://codeforces.com/contest/1920/problem/B) | ✅ 01:08 | [B.py](Contests/1920_Round919_Div2/B.py) |
+  | C - [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | - | - |
+  | D - [Array Repetition](https://codeforces.com/contest/1920/problem/D) | - | [D.py](Contests/1920_Round919_Div2/D.py) |
+  | E - [Counting Binary Strings](https://codeforces.com/contest/1920/problem/E) | - | - |
+  | F1 - [Smooth Sailing (Easy Version)](https://codeforces.com/contest/1920/problem/F1) | - | - |
+  | F2 - [Smooth Sailing (Hard Version)](https://codeforces.com/contest/1920/problem/F2) | - | - |
+
+</details>
