@@ -163,7 +163,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1896 - CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1896)
-  - Final standing: **5752<sup>th</sup> / 9394**
+  - Final standing: **5752<sup>nd</sup> / 9394**
   - Score: **1256**
   - Rating change: **-14** _(now 1136, newbie)_
 
@@ -324,7 +324,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
     <b>1920 - Codeforces Round 919 (Div. 2)</b>
   </summary>
 
-  - [1920 - Codeforces Round 919 (Div. 2)](https://codeforces.com/contest/1919)
+  - [1920 - Codeforces Round 919 (Div. 2)](https://codeforces.com/contest/1920)
   - Final standing: **7488<sup>th</sup> / 17996**
   - Score: **1160**
   - Rating change: **-9** _(now 1225 pupil)_
@@ -338,5 +338,27 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | E - [Counting Binary Strings](https://codeforces.com/contest/1920/problem/E) | - | - |
   | F1 - [Smooth Sailing (Easy Version)](https://codeforces.com/contest/1920/problem/F1) | - | - |
   | F2 - [Smooth Sailing (Hard Version)](https://codeforces.com/contest/1920/problem/F2) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>1921 - Codeforces Round 920 (Div. 3)</b>
+  </summary>
+
+  - [Codeforces Round 920 (Div. 3)](https://codeforces.com/contest/1921)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **3**, Penalty: **70**
+  - Rating change: **??** _(now ?? ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Square](https://codeforces.com/contest/1921/problem/A) | ✅ 00:05 | [A.py](Contests/1921_Round920_Div3/A.py) |
+  | B - [Arranging Cats](https://codeforces.com/contest/1921/problem/B) | ✅ 00:21 (-1 penalty) | [B.py](Contests/1921_Round920_Div3/B.py) |
+  | C - [Sending Messages](https://codeforces.com/contest/1921/problem/C) | ✅ 00:34 | [C.py](Contests/1921_Round920_Div3/C.py) |
+  | D - [Very Different Array](https://codeforces.com/contest/1921/problem/D) | ❌ -1 penalty (solved after contest end) | [D.py](Contests/1921_Round920_Div3/D.py) |
+  | E - [Eat the Chip](https://codeforces.com/contest/1921/problem/E) | - | [E.py](Contests/1921_Round920_Div3/E.py) |
+  | F - [Sum of Progression](https://codeforces.com/contest/1921/problem/F) | - | - |
+  | G - [Mischievous Shooter](https://codeforces.com/contest/1921/problem/G) | - | - |
 
 </details>
