@@ -325,9 +325,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1920 - Codeforces Round 919 (Div. 2)](https://codeforces.com/contest/1919)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **7488<sup>th</sup> / 17996**
   - Score: **1160**
-  - Rating change: **??** _(now ?? ??)_
+  - Rating change: **-9** _(now 1225 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
