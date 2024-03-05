@@ -34,9 +34,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1883 - Codeforces Round 905 (Div. 3)](https://codeforces.com/contest/1883)
-  - Final standing: **7549<sup>th</sup> / 12530**
+  - Final standing: **7235<sup>th</sup> / 12530**
   - Score: **1276**
-  - Rating change: **+269** _(now 691, newbie)_
+  - Rating change: **+271** _(now 693, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -57,9 +57,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1895 - Educational Codeforces Round 157 (Div. 2)](https://codeforces.com/contest/1895)
-  - Final standing: **11234<sup>th</sup> / 14520**
+  - Final standing: **10780<sup>th</sup> / 14520**
   - Score: **1**, Penalty: **5**
-  - Rating change: **+153** _(now 844, newbie)_
+  - Rating change: **+154** _(now 847, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -79,9 +79,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1894 - Codeforces Round 908 (Div. 2)](https://codeforces.com/contest/1894)
-  - Final standing: **6964<sup>th</sup> / 10238**
+  - Final standing: **6478<sup>th</sup> / 10238**
   - Score: **466**
-  - Rating change: **+108** _(now 952, newbie)_
+  - Rating change: **+113** _(now 960, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -99,9 +99,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1899 - Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899)
-  - Final standing: **3135<sup>th</sup> / 9716**
+  - Final standing: **2980<sup>th</sup> / 9716**
   - Score: **4**, Penalty: **163**
-  - Rating change: **+175** _(now 1127, newbie)_
+  - Rating change: **+174** _(now 1134, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -121,9 +121,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1898 - Codeforces Round 910 (Div. 2)](https://codeforces.com/contest/1898)
-  - Final standing: **3847<sup>th</sup> / 8026**
+  - Final standing: **3745<sup>th</sup> / 8026**
   - Score: **476**
-  - Rating change: **+57** _(now 1184, newbie)_
+  - Rating change: **+57** _(now 1191, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -142,9 +142,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1901 - Educational Codeforces Round 158 (Rated for Div. 2)](https://codeforces.com/contest/1901)
-  - Final standing: **6907<sup>th</sup> / 11914**
+  - Final standing: **6692<sup>th</sup> / 11914**
   - Score: **1**, Penalty: **8**
-  - Rating change: **-34** _(now 1150, newbie)_
+  - Rating change: **-34** _(now 1157, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -163,9 +163,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1896 - CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1896)
-  - Final standing: **5752<sup>nd</sup> / 9394**
+  - Final standing: **5593<sup>nd</sup> / 9394**
   - Score: **1256**
-  - Rating change: **-14** _(now 1136, newbie)_
+  - Rating change: **-14** _(now 1143, newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -187,9 +187,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1900 - Codeforces Round 911 (Div. 2)](https://codeforces.com/contest/1900)
-  - Final standing: **8788<sup>th</sup> / 9791**
+  - Final standing: **8466<sup>th</sup> / 9791**
   - Score: **370**
-  - Rating change: **-97** _(now 1039 newbie)_
+  - Rating change: **-94** _(now 1049 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -208,9 +208,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1907 - Codeforces Round 913 (Div. 3)](https://codeforces.com/contest/1907)
-  - Final standing: **3348<sup>th</sup> / 10299**
+  - Final standing: **3198<sup>th</sup> / 10299**
   - Score: **3**, Penalty: **79**
-  - Rating change: **+95** _(now 1134 newbie)_
+  - Rating change: **+93** _(now 1142 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -230,9 +230,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1909 - Pinely Round 3 (Div. 1 + Div. 2)](https://codeforces.com/contest/1909)
-  - Final standing: **6652<sup>nd</sup> / 10976**
+  - Final standing: **6529<sup>nd</sup> / 10976**
   - Score: **486**
-  - Rating change: **-17** _(now 1125 newbie)_
+  - Rating change: **-14** _(now 1128 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -255,9 +255,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1915 - Codeforces Round 918 (Div. 4)](https://codeforces.com/contest/1915)
-  - Final standing: **9105<sup>th</sup> / 12336**
+  - Final standing: **8845<sup>th</sup> / 12336**
   - Score: **4**, Penalty: **149**
-  - Rating change: **-13** _(now 1115 newbie)_
+  - Rating change: **-12** _(now 1116 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -277,9 +277,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1916 - Good Bye 2023](https://codeforces.com/contest/1916)
-  - Final standing: **15034<sup>th</sup> / 18653**
+  - Final standing: **14740<sup>th</sup> / 18653**
   - Score: **115**
-  - Rating change: **-61** _(now 1054 newbie)_
+  - Rating change: **-59** _(now 1057 newbie)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -301,9 +301,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1919 - Hello 2024](https://codeforces.com/contest/1919)
-  - Final standing: **3067<sup>th</sup> / 21065**
+  - Final standing: **3059<sup>th</sup> / 21065**
   - Score: **1465**
-  - Rating change: **+180** _(now 1234 pupil)_
+  - Rating change: **+179** _(now 1236 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -325,9 +325,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1920 - Codeforces Round 919 (Div. 2)](https://codeforces.com/contest/1920)
-  - Final standing: **7488<sup>th</sup> / 17996**
+  - Final standing: **7319<sup>th</sup> / 17996**
   - Score: **1160**
-  - Rating change: **-9** _(now 1225 pupil)_
+  - Rating change: **-7** _(now 1229 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -347,9 +347,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Codeforces Round 920 (Div. 3)](https://codeforces.com/contest/1921)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **9160<sup>th</sup> / 14126**
   - Score: **3**, Penalty: **70**
-  - Rating change: **??** _(now ?? ??)_
+  - Rating change: **-25** _(now 1204 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
