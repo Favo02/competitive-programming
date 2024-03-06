@@ -362,3 +362,24 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Mischievous Shooter](https://codeforces.com/contest/1921/problem/G) | - | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1935 - Codeforces Round 932 (Div. 2)</b>
+  </summary>
+
+  - [Codeforces Round 932 (Div. 2)](https://codeforces.com/contest/1935)
+  - Final standing: **5918<sup>th</sup> / 19492**
+  - Score: **1164**
+  - Rating change: **+36** _(now 1240 pupil)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Entertainment in MAC](https://codeforces.com/contest/1935/problem/A) | ✅ 00:11 | [A.py](Contests/1935_Round932_Div2/A.py) |
+  | B - [Informatics in MAC](https://codeforces.com/contest/1935/problem/B) | ✅ 00:41 (-1 penalty) | [B.py](Contests/1935_Round932_Div2/B.py) |
+  | C - [Messenger in MAC](https://codeforces.com/contest/1935/problem/C) | ❌ -2 penalty | [C.py](Contests/1935_Round932_Div2/C.py) |
+  | D - [Exam in MAC](https://codeforces.com/contest/1935/problem/D) | - | - |
+  | E - [Distance Learning Courses in MAC](https://codeforces.com/contest/1935/problem/E) | - | - |
+  | F - [Andrey's Tree](https://codeforces.com/contest/1935/problem/F) | - | - |
+
+</details>
