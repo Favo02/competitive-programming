@@ -371,7 +371,7 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   - [Codeforces Round 932 (Div. 2)](https://codeforces.com/contest/1935)
   - Final standing: **5918<sup>th</sup> / 19492**
   - Score: **1164**
-  - Rating change: **+36** _(now 1240 pupil)_
+  - Rating change: **+38** _(now 1242 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -381,5 +381,27 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | D - [Exam in MAC](https://codeforces.com/contest/1935/problem/D) | - | - |
   | E - [Distance Learning Courses in MAC](https://codeforces.com/contest/1935/problem/E) | - | - |
   | F - [Andrey's Tree](https://codeforces.com/contest/1935/problem/F) | - | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>1948 - Educational Codeforces Round 163 (Rated for Div. 2)</b>
+  </summary>
+
+  - [Educational Codeforces Round 163 (Rated for Div. 2)](https://codeforces.com/contest/1948)
+  - Final standing: **2979<sup>th</sup> / 19282**
+  - Score: **3**, Penalty: **73**
+  - Rating change: **+91** _(now 1333 pupil)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Special Characters](https://codeforces.com/contest/1948/problem/A) | ✅ 00:06 | [A.py](Contests/1948_Educational_Round163_Div2/A.py) |
+  | B - [Array Fix](https://codeforces.com/contest/1948/problem/B) | ✅ 00:21 (-1 penalty) | [B.py](Contests/1948_Educational_Round163_Div2/B.py) |
+  | C - [Arrow Path](https://codeforces.com/contest/1948/problem/C) | ✅ 00:36 | [C.py](Contests/1948_Educational_Round163_Div2/C.py) |
+  | D - [Tandem Repeats?](https://codeforces.com/contest/1948/problem/D) | ❌ -5 penalty | [D.py](Contests/1948_Educational_Round163_Div2/D.py) |
+  | E - [Clique Partition](https://codeforces.com/contest/1948/problem/E) | - | - |
+  | F - [Rare Coins](https://codeforces.com/contest/1948/problem/F) | - | - |
+  | G - [MST with Matching](https://codeforces.com/contest/1948/problem/G) | - | - |
 
 </details>
