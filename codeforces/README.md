@@ -405,3 +405,24 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [MST with Matching](https://codeforces.com/contest/1948/problem/G) | ❌ | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>1950 - Codeforces Round 937 (Div. 4)</b>
+  </summary>
+
+  - [1950 - Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950)
+  - Final standing: **??<sup>th</sup> / ??**
+  - Score: **6**, Penalty: **326**
+  - Rating change: **??** _(now ??, ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | ✅ 00:01  | [A.py](Contests/1950_Round937_Div4/A.py) |
+  | B - [Upscaling](https://codeforces.com/contest/1950/problem/B) | ✅ 00:05  | [B.py](Contests/1950_Round937_Div4/B.py) |
+  | C - [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | ✅ 00:11  | [C.py](Contests/1950_Round937_Div4/C.py) |
+  | D - [Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | ✅ 01:14  | [D.py](Contests/1950_Round937_Div4/D.py) |
+  | E - [Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | ✅ 00:51 _(2 penalties)_ | [E.py](Contests/1950_Round937_Div4/E.py) |
+  | F - [0, 1, 2, Tree!](https://codeforces.com/contest/1950/problem/F) | ❌  | - |
+  | G - [Shuffling Songs](https://codeforces.com/contest/1950/problem/G) | ✅ 02:14 _(-3 penalties)_ | [G.py](Contests/1950_Round937_Div4/G.py) |
+</details>
