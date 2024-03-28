@@ -55,6 +55,8 @@ for p in c["problems"]:
   else:
     formatted_problems.append(unsolved_template.format(letter, p_name, p_url, p_penalties))
 
+  letters_index += 1
+
 name = c["name"]
 url = c["url"]
 position = c["position"]
