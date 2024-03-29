@@ -390,9 +390,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [Educational Codeforces Round 163 (Rated for Div. 2)](https://codeforces.com/contest/1948)
-  - Final standing: **2979<sup>th</sup> / 19282**
+  - Final standing: **2871<sup>st</sup> / 19282**
   - Score: **3**, Penalty: **73**
-  - Rating change: **+91** _(now 1333 pupil)_
+  - Rating change: **+93** _(now 1335 pupil)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
@@ -412,9 +412,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [1950 - Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950)
-  - Final standing: **??<sup>th</sup> / ??**
+  - Final standing: **568<sup>th</sup> / 15068**
   - Score: **6**, Penalty: **326**
-  - Rating change: **??** _(now ??, ??)_
+  - Rating change: **+113** _(now 1448, specialist)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
