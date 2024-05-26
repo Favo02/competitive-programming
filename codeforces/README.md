@@ -446,3 +446,22 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | E - [Folding Strip](https://codeforces.com/contest/1966/problem/E) | ❌  | - |
   | F - [Missing Subarray Sum](https://codeforces.com/contest/1966/problem/F) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>1977 - Codeforces Round 948 (Div. 2)</b>
+  </summary>
+
+  - [1977 - Codeforces Round 948 (Div. 2)](https://codeforces.com/contest/1977)
+  - Final standing: **6162<sup>nd</sup> / 16479**
+  - Score: **1394**
+  - Rating change: **-52** _(now 1374, pupil)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Little Nikita](https://codeforces.com/contest/1977/problem/A) | ✅ 00:03  | [A.py](Contests/1977_Round948_Div2/A.py) |
+  | B - [Binary Colouring](https://codeforces.com/contest/1977/problem/B) | ✅ 01:10  | [B.py](Contests/1977_Round948_Div2/B.py) |
+  | C - [Nikita and LCM](https://codeforces.com/contest/1977/problem/C) | ❌  | - |
+  | D - [XORificator](https://codeforces.com/contest/1977/problem/D) | ❌  | - |
+  | E - [Tensor](https://codeforces.com/contest/1977/problem/E) | ❌  | - |
+</details>
