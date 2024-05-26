@@ -426,3 +426,23 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | F - [0, 1, 2, Tree!](https://codeforces.com/contest/1950/problem/F) | ❌  | - |
   | G - [Shuffling Songs](https://codeforces.com/contest/1950/problem/G) | ✅ 02:14 _(-3 penalties)_ | [G.py](Contests/1950_Round937_Div4/G.py) |
 </details>
+
+<details>
+  <summary>
+    <b>1966 - Codeforces Round 941 (Div. 2)</b>
+  </summary>
+
+  - [1966 - Codeforces Round 941 (Div. 2)](https://codeforces.com/contest/1966)
+  - Final standing: **3298<sup>th</sup> / 10015**
+  - Score: **2098**
+  - Rating change: **-22** _(now 1426, specialist)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Card Exchange](https://codeforces.com/contest/1966/problem/A) | ✅ 00:43  | [A.py](Contests/1966_Round941_Div2/A.py) |
+  | B - [Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | ✅ 00:23  | [B.py](Contests/1966_Round941_Div2/B.py) |
+  | C - [Everything Nim](https://codeforces.com/contest/1966/problem/C) | ✅ 01:44 _(2 penalties)_ | [C.py](Contests/1966_Round941_Div2/C.py) |
+  | D - [Missing Subsequence Sum](https://codeforces.com/contest/1966/problem/D) | ❌  | - |
+  | E - [Folding Strip](https://codeforces.com/contest/1966/problem/E) | ❌  | - |
+  | F - [Missing Subarray Sum](https://codeforces.com/contest/1966/problem/F) | ❌  | - |
+</details>
