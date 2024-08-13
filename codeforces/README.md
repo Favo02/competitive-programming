@@ -465,3 +465,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | D - [XORificator](https://codeforces.com/contest/1977/problem/D) | ❌  | - |
   | E - [Tensor](https://codeforces.com/contest/1977/problem/E) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>2000 - Codeforces Round 966 (Div. 3)</b>
+  </summary>
+
+  - [2000 - Codeforces Round 966 (Div. 3)](https://codeforces.com/contest/2000)
+  - Final standing: **??<sup>??</sup> / ??**
+  - Score: **5**, Penalty: **247**
+  - Rating change: **??** _(now ??, ??)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Primary Task](https://codeforces.com/contest/2000/problem/A) | ✅ 00:03  | [A.py](Contests/2000_Round966_Div3/A.py) |
+  | B - [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | ✅ 00:09  | [B.py](Contests/2000_Round966_Div3/B.py) |
+  | C - [Numeric String Template](https://codeforces.com/contest/2000/problem/C) | ✅ 00:17  | [C.py](Contests/2000_Round966_Div3/C.py) |
+  | D - [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | ✅ 00:50  | [D.py](Contests/2000_Round966_Div3/D.py) |
+  | E - [Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | ✅ 02:08  | [E.py](Contests/2000_Round966_Div3/E.py) |
+  | F - [Color Rows and Columns](https://codeforces.com/contest/2000/problem/F) | ❌  | - |
+  | G - [Call During the Journey](https://codeforces.com/contest/2000/problem/G) | ❌  | - |
+  | H - [Ksyusha and the Loaded Set](https://codeforces.com/contest/2000/problem/H) | ❌  | - |
+</details>
