@@ -472,9 +472,9 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   </summary>
 
   - [2000 - Codeforces Round 966 (Div. 3)](https://codeforces.com/contest/2000)
-  - Final standing: **??<sup>??</sup> / ??**
+  - Final standing: **2835<sup>th</sup> / 17968**
   - Score: **5**, Penalty: **247**
-  - Rating change: **??** _(now ??, ??)_
+  - Rating change: **+38** _(now 1423, specialist)_
 
   | Problem | Solved time + Penalties | Solution |
   |--|--|--|
