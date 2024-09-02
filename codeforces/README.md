@@ -487,3 +487,25 @@ My solutions for [Codeforces](https://codeforces.com) (competitive programming) 
   | G - [Call During the Journey](https://codeforces.com/contest/2000/problem/G) | ❌  | - |
   | H - [Ksyusha and the Loaded Set](https://codeforces.com/contest/2000/problem/H) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>2008 - Codeforces Round 970 (Div. 3)</b>
+  </summary>
+
+  - [2008 - Codeforces Round 970 (Div. 3)](https://codeforces.com/contest/2008)
+  - Final standing: **10980<sup>th</sup> / 15534**
+  - Score: **3**, Penalty: **49**
+  - Rating change: **-83** _(now 1341, pupil)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | A - [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | ✅ 00:07 _(1 penalty)_ | [A.py](Contests/2008_Round970_Div3/A.py) |
+  | B - [Square or Not](https://codeforces.com/contest/2008/problem/B) | ✅ 00:14  | [B.py](Contests/2008_Round970_Div3/B.py) |
+  | C - [Longest Good Array](https://codeforces.com/contest/2008/problem/C) | ✅ 00:18  | [C.py](Contests/2008_Round970_Div3/C.py) |
+  | D - [Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | ❌  | - |
+  | E - [Alternating String](https://codeforces.com/contest/2008/problem/E) | ❌  | - |
+  | F - [Sakurako's Box](https://codeforces.com/contest/2008/problem/F) | ❌  | - |
+  | G - [Sakurako's Task](https://codeforces.com/contest/2008/problem/G) | ❌  | - |
+  | H - [Sakurako's Test](https://codeforces.com/contest/2008/problem/H) | ❌  | - |
+</details>
