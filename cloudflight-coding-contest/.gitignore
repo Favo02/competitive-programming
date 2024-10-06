@@ -1,0 +1,6 @@
+*.class
+*.zip
+App.java
+Test.java
+Main*.java
+bin/
