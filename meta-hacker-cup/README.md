@@ -14,3 +14,16 @@
 |A|B1|B2|C1|C2|D|E|
 |-|-|-|-|-|-|-|
 |✅ 1:29:53|-|-|_After time limit_|-|-|-|
+
+## 2024
+
+### [Round 1](https://www.facebook.com/codingcompetitions/hacker-cup/2024/round-1):
+
+**Rank**: 5042th / 22.495 _(19th / 25 Italy)_\
+**Score**: 31 / 100\
+**Total time**: 3:14:55\
+**Problems solved**:
+
+|A|B|C|D|E|
+|-|-|-|-|-|
+|✅ 0:17:06|✅ 2:57:49|-|-|-|-|-|
