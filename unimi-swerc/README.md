@@ -1,12 +1,11 @@
 ## UNIMI-SWERC
 
-> UNIMI-SWERC is a SWERC/CPC-like programming competition for Università degli Studi di Milano.
+> [UNIMI-SWERC](https://unimi-swerc.github.io/) is a SWERC/CPC-like programming competition for Università degli Studi di Milano.
 
-[UNIMI-SWERC](https://unimi-swerc.github.io/)
+![2023](https://img.shields.io/badge/2023-7th%20%2F%2027-gold)
+![2024](https://img.shields.io/badge/2024-2nd%20%2F%2017-gold)
 
-## Results
-
-### 2023 edition
+## 2023 edition
 
 - **_Score_**: 3 - **_Tiebraker_**: 160
 - **_Standings_**: 7th / 27
@@ -22,3 +21,21 @@
 | G - Calendario dell’avvento | -                     | -          |
 | H - Funi                    | -                     | -          |
 | I - ATM Point               | [I.py](./2023/I/I.py) | ❌ 2 tries |
+
+## 2024 edition
+
+- **_Score_**: 6 - **_Tiebraker_**: 351
+- **_Standings_**: 2nd / 17
+
+| Problem                     | Solution(s)           | Result     |
+| --------------------------- | --------------------- | ---------- |
+| A - Punti                   | -                     | ✅ 1 try   |
+| B - Numeri sulla lavagna    | -                     | ✅ 1 try   |
+| C - Trova la somma          | -                     | ✅ 1 try   |
+| D - Lavori di gruppo        | -                     | ✅ 4 tries |
+| E - Le basi                 | -                     | ✅ 4 tries |
+| F - Sciopero                | -                     | ✅ 1 try   |
+| G - Cache                   | -                     | ❌ 3 tries |
+| H - Gioco a gettoni         | -                     | -          |
+
+_The event was offline, so no solutions :(_

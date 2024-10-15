@@ -106,3 +106,4 @@ Profile: [Favo02](https://leetcode.com/Favo02)
 ## <img height="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP._blmP8-2pZwldN5UtMSnxgHaHa%26pid%3DApi&f=1&ipt=2f9e41eb37d4716257622fa5ef41993ffc372321ee2ba504512028c018880f10&ipo=images" /> [**UNIMI SWERC**](https://unimi-swerc.github.io/)
 
 ![2023](https://img.shields.io/badge/2023-7th-white)*
+![2024](https://img.shields.io/badge/2024-2nd-white)*
