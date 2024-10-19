@@ -93,7 +93,8 @@ Profile: [Favo02](https://leetcode.com/Favo02)
 ## <img height="20px" src="https://logos-world.net/wp-content/uploads/2021/11/Meta-Emblem.png" /> [**Meta Hacker Cup**](https://www.facebook.com/codingcompetitions/hacker-cup/)
 
 ![2023](https://img.shields.io/badge/2023-5827th-0467DF)*
-![2024](https://img.shields.io/badge/2024-5042th-0467DF)*
+![2024 Round1](https://img.shields.io/badge/2024_Round1-4860th-0467DF)*
+![2024 Round1](https://img.shields.io/badge/2024_Round2-2569th-0467DF)*
 
 <br>
 
