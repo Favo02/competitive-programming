@@ -68,6 +68,7 @@ Profile: [Favo02](https://codeforces.com/profile/Favo02)
 ## <img height="20px" src="https://itacpc.it/images/logo/logo.png" /> [**ITACPC**](https://itacpc.it/)
 
 ![2023](https://img.shields.io/badge/2023-61st-204b9b)*
+![2024](https://img.shields.io/badge/2024-53rd-204b9b)*
 
 <br>
 
