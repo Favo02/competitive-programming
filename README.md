@@ -58,6 +58,12 @@ Profile: [Favo02](https://codeforces.com/profile/Favo02)
 
 <br>
 
+## <img height="20px" src="https://everybody-codes.b-cdn.net/assets/img/logo.png" /> [**Everybody Codes**](https://everybody.codes/home)
+
+![2024](https://img.shields.io/badge/2024-15/60_quests-e5c97b)*
+
+<br>
+
 ## <img height="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" /> [**HackerRank**](https://www.hackerrank.com/)
 
 ![Contests](https://img.shields.io/badge/Contests-0-00EA64)*
