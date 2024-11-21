@@ -26,7 +26,7 @@ def dijkstra(start):
       if field[ay][ax] == "#": continue
 
       newdist = 1 + cdist + hdiff(cx, cy, ax, ay)
-      if (ax, ay) == end:
+      if (ax, ay) in starts:
         return newdist
 
       if (ax, ay) in dists and dists[(ax, ay)] <= newdist:
@@ -38,7 +38,7 @@ def dijkstra(start):
   return dists
 
 field = []
-starts = []
+starts = set()
 end = None
 
 for y, line in enumerate(sys.stdin):
@@ -47,14 +47,10 @@ for y, line in enumerate(sys.stdin):
 
   for x, cell in enumerate(line):
     if cell == "S":
-      starts.append((x, y))
+      starts.add((x, y))
       field[y][x] = 0
     if cell == "E":
       end = (x, y)
       field[y][x] = 0
 
-res = float("inf")
-for i, s in enumerate(starts):
-  res = min(res, dijkstra(s))
-
-print(res)
+print(dijkstra(end))
