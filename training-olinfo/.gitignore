@@ -1,0 +1,6 @@
+wip
+.vscode
+**/*.out
+**/*.in
+**/input.txt
+**/output.txt
