@@ -13,13 +13,13 @@ This repository contains all the code I have written for competitive programming
 
 ## <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&s" /> [**Advent of code**](https://adventofcode.com/)
 
-![Total](https://img.shields.io/badge/Total-154_stars-gold)*
+![Total](https://img.shields.io/badge/Total-194_stars-gold)*
 ![2019](https://img.shields.io/badge/2019-2_stars-darkgreen)*
 ![2020](https://img.shields.io/badge/2020-2_stars-darkgreen)*
-![2021](https://img.shields.io/badge/2021-38_stars-darkgreen)*
+![2021](https://img.shields.io/badge/2021-40_stars-darkgreen)*
 ![2022](https://img.shields.io/badge/2022-50_stars-gold)*
 ![2023](https://img.shields.io/badge/2023-50_stars-gold)*
-![2024](https://img.shields.io/badge/2024-12_stars-darkgreen)*
+![2024](https://img.shields.io/badge/2024-50_stars-gold)*
 
 > This resource has also an independent [repository](https://github.com/Favo02/advent-of-code) for legacy reasons _(links spread around the internet)_.
 
