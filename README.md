@@ -109,6 +109,7 @@ Profile: [Favo02](https://leetcode.com/Favo02)
 ## <img height="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FREY.MI-f6cc1548.png%3Ft%3D1603739301&f=1&nofb=1&ipt=a9eea6dac7bcab9299bc98719237b989479b7ddf49ce5bcab7be8ace5e2c798b&ipo=images" /> [**Reply Challenge**](https://challenges.reply.com/)
 
 ![2023](https://img.shields.io/badge/2023-3180th-00ac4f)*
+![2023](https://img.shields.io/badge/2025-40th-00ac4f)*
 
 <br>
 
