@@ -53,6 +53,12 @@ Profile: [Favo02](https://codeforces.com/profile/Favo02)
 
 <br>
 
+## <img height="20px" src="https://www.codyssi.com/static/images/codyssi_logo.png" /> [**Codyssi**](https://www.codyssi.com/)
+
+![2025](https://img.shields.io/badge/Parts_solved-12-6ced9d)*
+
+<br>
+
 ## <img height="20px" src="https://cses.fi/logo.png?1" /> [**CSES Problem Set**](https://cses.fi/problemset/)
 
 ![Solved](https://img.shields.io/badge/Problems_solved-19-181818)*
