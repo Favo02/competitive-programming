@@ -4,6 +4,7 @@
 
 ![2023](https://img.shields.io/badge/2023-7th%20%2F%2027-gold)
 ![2024](https://img.shields.io/badge/2024-2nd%20%2F%2017-gold)
+![2025](https://img.shields.io/badge/2025-6th%20%2F%2013-gold)
 
 ## 2023 edition
 
@@ -27,15 +28,34 @@
 - **_Score_**: 6 - **_Tiebraker_**: 351
 - **_Standings_**: 2nd / 17
 
-| Problem                     | Solution(s)           | Result     |
-| --------------------------- | --------------------- | ---------- |
-| A - Punti                   | -                     | ✅ 1 try   |
-| B - Numeri sulla lavagna    | -                     | ✅ 1 try   |
-| C - Trova la somma          | -                     | ✅ 1 try   |
-| D - Lavori di gruppo        | -                     | ✅ 4 tries |
-| E - Le basi                 | -                     | ✅ 4 tries |
-| F - Sciopero                | -                     | ✅ 1 try   |
-| G - Cache                   | -                     | ❌ 3 tries |
-| H - Gioco a gettoni         | -                     | -          |
+| Problem                  | Solution(s) | Result     |
+| ------------------------ | ----------- | ---------- |
+| A - Punti                | -           | ✅ 1 try   |
+| B - Numeri sulla lavagna | -           | ✅ 1 try   |
+| C - Trova la somma       | -           | ✅ 1 try   |
+| D - Lavori di gruppo     | -           | ✅ 4 tries |
+| E - Le basi              | -           | ✅ 4 tries |
+| F - Sciopero             | -           | ✅ 1 try   |
+| G - Cache                | -           | ❌ 3 tries |
+| H - Gioco a gettoni      | -           | -          |
 
 _The event was offline, so no solutions :(_
+
+## 2025 edition
+
+- **_Score_**: 7 - **_Tiebraker_**: 09:11:04
+- **_Standings_**: 6th / 13
+
+| Problem | Solution(s)         | Result     |
+| ------- | ------------------- | ---------- |
+| A       | [A.py](./2025/A.py) | ✅ 1 try   |
+| B       | [B.py](./2025/B.py) | ✅ 1 try   |
+| C       | [C.py](./2025/C.py) | ✅ 1 try   |
+| D       | [D.py](./2025/D.py) | ✅ 1 tries |
+| E       | [E.py](./2025/E.py) | ✅ 5 tries |
+| F       | [F.py](./2025/F.py) | ✅ 5 tries |
+| G       | [G.py](./2025/G.py) | ✅ 5 tries |
+| H       | -                   | -          |
+| I       | -                   | -          |
+
+_The event was offline, but I sneaked out the solutions :)_
