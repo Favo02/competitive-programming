@@ -5,6 +5,7 @@
 
 ![2023](https://img.shields.io/badge/2023-61st-gold)
 ![2024](https://img.shields.io/badge/2024-53rd-gold)
+![2025](https://img.shields.io/badge/2025-65th-gold)
 
 ## Results
 
@@ -51,3 +52,25 @@
 | J - ITACPC Sabotage!             | -                      | -          |
 | K - Desperate Recovery           | -                      | -          |
 | L - Fast Ferret Transform        | -                      | -          |
+
+### 2025 edition
+
+- **_Team_**: "Silab GVNG" ([@Favo02](https://github.com/Favo02), [@Tsagae](https://github.com/Tsagae))
+- **_Affiliation_**: Università degli Studi di Milano
+- **_Score_**: 2 - **_Tiebraker_**: 136
+- **_Standings_**: 65th / 170
+
+| Problem                     | Solution(s)         | Result     |
+| --------------------------- | ------------------- | ---------- |
+| A - Birthday Party          | -                   | ❌ 7 tries |
+| B - Palindromic Walk        | -                   | -          |
+| C - The Squares Strike Back | [C.py](./2025/C.py) | ✅ 3 tries |
+| D - Wizard                  | -                   | -          |
+| E - Permutation Inversions  | -                   | -          |
+| F - Colivă                  | -                   | -          |
+| G - Christmas Dinner        | -                   | -          |
+| H - Wardrobe 3              | -                   | -          |
+| I - Good Soup               | -                   | ❌ 4 tries |
+| J - Porco Rigido            | -                   | -          |
+| K - Pizza                   | -                   | -          |
+| L - Fake Square String      | [L.py](./2025/L.py) | ✅ 2 tries |
