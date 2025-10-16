@@ -46,16 +46,16 @@ _The event was offline, so no solutions :(_
 - **_Score_**: 7 - **_Tiebraker_**: 09:11:04
 - **_Standings_**: 6th / 13
 
-| Problem | Solution(s)         | Result     |
-| ------- | ------------------- | ---------- |
-| A       | [A.py](./2025/A.py) | ✅ 1 try   |
-| B       | [B.py](./2025/B.py) | ✅ 1 try   |
-| C       | [C.py](./2025/C.py) | ✅ 1 try   |
-| D       | [D.py](./2025/D.py) | ✅ 1 tries |
-| E       | [E.py](./2025/E.py) | ✅ 5 tries |
-| F       | [F.py](./2025/F.py) | ✅ 5 tries |
-| G       | [G.py](./2025/G.py) | ✅ 5 tries |
-| H       | -                   | -          |
-| I       | -                   | -          |
+| Problem                | Solution(s)                   | Result     |
+| ---------------------- | ----------------------------- | ---------- |
+| A - Svirgolando        | [A.py](./2025/A.py)           | ✅ 1 try   |
+| B - Caffè              | [B.py](./2025/B.py)           | ✅ 1 try   |
+| C - Classifica         | [C.py](./2025/C.py)           | ✅ 1 try   |
+| D - Monumenti          | [D.py](./2025/D.py)           | ✅ 1 tries |
+| E - Aiutanti           | [E.py](./2025/E.py)           | ✅ 5 tries |
+| F - Operazioni         | [F.py](./2025/F.py)           | ✅ 5 tries |
+| G - Mongolfiere        | [G.py](./2025/G.py)           | ✅ 5 tries |
+| H - Conta che ti passa | [H.py](./2025/upsolves/H.py)  | 📘Upsolve  |
+| I - La torta di Poldo  | [I.py](./2025/upsolves/I.cpp) | 📘Upsolve  |
 
 _The event was offline, but I sneaked out the solutions :)_

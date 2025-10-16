@@ -22,8 +22,8 @@ def bfs(queue):
         for dy in range(-2, 3):
             for dx in range(-2, 3):
                 nx, ny = x + dx, y + dy
-                if not (0 <= nx < ROWS): continue
-                if not (0 <= ny < COLS): continue
+                if not (0 <= ny < ROWS): continue
+                if not (0 <= nx < COLS): continue
                 if grid[ny][nx] == '#': continue
                 if (nx, ny) in seen: continue
                 if abs(dx) + abs(dy) <= 1:
