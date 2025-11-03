@@ -68,6 +68,7 @@ Profile: [Favo02](https://codeforces.com/profile/Favo02)
 ## <img height="20px" src="https://everybody-codes.b-cdn.net/assets/img/logo.png" /> [**Everybody Codes**](https://everybody.codes/home)
 
 ![2024](https://img.shields.io/badge/2024-60/60_quests-e5c97b)\*
+![2025](https://img.shields.io/badge/2025-3/3_quests-e5c97b)\*
 
 <br>
 
