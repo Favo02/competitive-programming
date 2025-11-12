@@ -1,3 +1,4 @@
 # ignore input files
 *.in
 *ignore*
+*.out
