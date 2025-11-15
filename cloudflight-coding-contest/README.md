@@ -34,3 +34,16 @@ Classic mode - "Lawn mower" problem.
 - Location rank (The web - Online): **28<sup>th</sup> / 361**
 - Global rank: **175<sup>th</sup> / 1701**
 - [Python solutions](./39th-CCC-April-2024/)
+
+## [41st CCC](https://register.codingcontest.org/contest/5772/results) - 14 November 2025
+
+Classic mode - "Spaceship" problem.
+
+- _"Silab GVNG"_: [@Favo02](https://github.com/Favo02)
+- Levels completed: **4 / 8**
+- Time: **00:15:51**
+- Location rank (The web - Online): **48<sup>th</sup> / 282**
+- Global rank: **299<sup>th</sup> / 1360**
+- [Python solutions](./41st-CCC-November-2025/)
+
+_had to quit mid contest :(_

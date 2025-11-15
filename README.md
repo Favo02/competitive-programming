@@ -40,6 +40,7 @@ Profile: [Favo02](https://atcoder.jp/users/Favo02)
 ![37th CCC](https://img.shields.io/badge/37th_CCC-377th-gold)\*
 ![38th CCC](https://img.shields.io/badge/38th_CCC-189th-gold)\*
 ![39th CCC](https://img.shields.io/badge/39th_CCC-175th-gold)\*
+![41st CCC](https://img.shields.io/badge/41st_CCC-299th-gold)\*
 
 <br>
 
