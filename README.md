@@ -69,9 +69,9 @@ Profile: [Favo02](https://codeforces.com/profile/Favo02)
 ## <img height="20px" src="https://everybody-codes.b-cdn.net/assets/img/logo.png" /> [**Everybody Codes**](https://everybody.codes/home)
 
 ![2024](https://img.shields.io/badge/2024-60/60_quests-e5c97b)\*
-![2025](https://img.shields.io/badge/2025-21/21_quests-e5c97b)\*
+![2025](https://img.shields.io/badge/2025-33/33_quests-e5c97b)\*
 ![Story01](https://img.shields.io/badge/Story01-9/9_quests-e5c97b)\*
-![Story02](https://img.shields.io/badge/Story02-0/9_quests-e5c97b)\*
+![Story02](https://img.shields.io/badge/Story02-9/9_quests-e5c97b)\*
 
 <br>
 
