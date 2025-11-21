@@ -21,7 +21,7 @@ This repository contains all the code I have written for competitive programming
 ![2023](https://img.shields.io/badge/2023-50_stars-gold)\*
 ![2024](https://img.shields.io/badge/2024-50_stars-gold)\*
 
-> This resource has also an independent [repository](https://github.com/Favo02/advent-of-code) for legacy reasons _(links spread around the internet)_.
+> This resource has an independent [repository](https://github.com/Favo02/advent-of-code) for legacy reasons _(links spread around the internet)_.
 
 <br>
 

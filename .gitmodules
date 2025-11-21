@@ -1,3 +1,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = git@github.com:Favo02/leetcode.git
+[submodule "advent-of-code"]
+	path = advent-of-code
+	url = git@github.com:Favo02/advent-of-code.git
