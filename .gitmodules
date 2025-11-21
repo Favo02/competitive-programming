@@ -4,3 +4,6 @@
 [submodule "advent-of-code"]
 	path = advent-of-code
 	url = git@github.com:Favo02/advent-of-code.git
+[submodule "cp-notebook"]
+	path = cp-notebook
+	url = git@github.com:Favo02/cp-notebook.git
