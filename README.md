@@ -105,7 +105,7 @@ Profile: [Favo02](https://leetcode.com/Favo02)
 ![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2Ffavo02@.com%2Fresource%2Fleetcode.com%2Fratings&query=%24.data.resources%5B%22leetcode.com%22%5D.data%5B0%5D%5B-1%3A%5D.new_rating&logoColor=blue&label=Rating%3A&labelColor=%23FFA116&color=white)
 ![Max rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2Ffavo02@.com%2Fresource%2Fleetcode.com%2Fratings&query=%24.data.resources%5B%22leetcode.com%22%5D.max&logoColor=blue&label=Max%20rating%3A&labelColor=%23FFA116&color=white)
 
-> This resource has also an independent [repository](https://github.com/Favo02/leetcode) for legacy reasons _(links spread around the internet)_.
+> This resource has an independent [repository](https://github.com/Favo02/leetcode) for legacy reasons _(links spread around the internet)_.
 
 <br>
 
