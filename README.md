@@ -1,137 +1,164 @@
 ## Competitive programming
 
-This repository contains all the code I have written for competitive programming contests and events.
+All the code written for competitive programming contests, events and similar.
 
-### Recap of how bad I am:
+<!-- TODO: SWERC pisa 2024 -->
+<!-- TODO: SWERC pisa 2025 -->
+<!-- TODO: project euler -->
 
-> Icons from [simpleicons.org](https://simpleicons.org/), badges from [shields.io](https://shields.io/), data from [clist.by](https://clist.by/)
+> [!NOTE]
+> Most platform/events have a dedicated folder with a detailed README (especially the team competitions).
 
 > [!WARNING]
-> Badges with **_\*_** are manually updated, so they might not be accurate.
+> Badges are manually updated _(sooner or later I will scrape everything)_, so they might inacurrate or outdated.
+>
+> Resources marked with **'** have an independent repository for legacy reasons (links spread around the web).
 
-<br>
+| Platform                                          |           Profile            | Stats                                                                   |
+| ------------------------------------------------- | :--------------------------: | ----------------------------------------------------------------------- |
+| _**In-Person Competitions**_                      |                              |                                                                         |
+| ![itacpc-logo] [**ITACPC**][itacpc]               |       _various teams_        | ![itacpc-2023] ![itacpc-2024] ![itacpc-2025]                            |
+| ![unimi-logo] [**UNIMI SWERC**][unimi]            |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025]                               |
+| _**Online Judges**_                               |                              |                                                                         |
+| ![atcoder-logo] [**AtCoder**][atcoder]            |  [Favo02][atcoder-profile]   | ![atcoder-contests] ![atcoder-rating] ![atcoder-max]                    |
+| ![codeforces-logo] [**Codeforces**][codeforces]   | [Favo02][codeforces-profile] | ![codeforces-contests] ![codeforces-rating] ![codeforces-max]           |
+| ![leetcode-logo] [**LeetCode**][leetcode]'        |  [Favo02][leetcode-profile]  | ![leetcode-contests] ![leetcode-rating] ![leetcode-max]                 |
+| _**Training Platforms**_                          |                              |                                                                         |
+| ![cses-logo] [**CSES**][cses]                     |    [Favo02][cses-profile]    | ![cses-solved]                                                          |
+| ![olinfo-logo] [**Training OlInfo**][olinfo]      |   [Favo02][olinfo-profile]   | ![olinfo-points] ![olinfo-solved]                                       |
+| _**Seasonal Events**_                             |                              |                                                                         |
+| ![aoc-logo] [**Advent of Code**][aoc]'            |            Favo02            | ![aoc-2019] ![aoc-2020] ![aoc-2021] ![aoc-2022] ![aoc-2023] ![aoc-2024] |
+| ![ec-logo] [**Everybody Codes**][everybody-codes] |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02]                       |
+| ![codyssi-logo] [**Codyssi**][codyssi]            |         Luca (#515)          | ![codyssi-2024] ![codyssi-2025]                                         |
+| _**Companies Events**_                            |                              |                                                                         |
+| ![meta-logo] [**Meta Hacker Cup**][meta]          |            Favo02            | ![meta-2023] ![meta-2024r1] ![meta-2024r2]                              |
+| ![reply-logo] [**Reply Challenge**][reply]        |       _various teams_        | ![reply-2023] ![reply-2025]                                             |
+| ![ccc-logo] [**Cloudflight Coding Contest**][ccc] |       _various teams_        | ![ccc-37] ![ccc-38] ![ccc-39] ![ccc-41]                                 |
+| _**Various and Rarely Used**_                     |                              |                                                                         |
+| ![hackerrank-logo] [**HackerRank**][hackerrank]   | [Favo02][hackerrank-profile] | ![hackerrank-problems]                                                  |
+| ![kattis-logo] [**Kattis**][kattis]               |   [Favo02][kattis-profile]   | ![kattis-problems]                                                      |
 
-## <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&s" /> [**Advent of code**](https://adventofcode.com/)
+> Icons using [wsrv.nl](https://wsrv.nl/), badges from [shields.io](https://shields.io/), data from [clist.by](https://clist.by/).
 
-![Total](https://img.shields.io/badge/Total-194_stars-gold)\*
-![2019](https://img.shields.io/badge/2019-2_stars-darkgreen)\*
-![2020](https://img.shields.io/badge/2020-2_stars-darkgreen)\*
-![2021](https://img.shields.io/badge/2021-40_stars-darkgreen)\*
-![2022](https://img.shields.io/badge/2022-50_stars-gold)\*
-![2023](https://img.shields.io/badge/2023-50_stars-gold)\*
-![2024](https://img.shields.io/badge/2024-50_stars-gold)\*
+<!-- ITACPC -->
 
-> This resource has an independent [repository](https://github.com/Favo02/advent-of-code) for legacy reasons _(links spread around the internet)_.
+[itacpc]: https://itacpc.it/
+[itacpc-logo]: https://wsrv.nl/?url=https://itacpc.it/images/logo/logo.png&w=20&h=20
+[itacpc-2023]: https://img.shields.io/badge/2023-61st-204b9b
+[itacpc-2024]: https://img.shields.io/badge/2024-53rd-204b9b
+[itacpc-2025]: https://img.shields.io/badge/2025-65th-204b9b
 
-<br>
+<!-- UNIMI SWERC -->
 
-## <img height="20px" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" /> [**AtCoder**](https://atcoder.jp/)
+[unimi]: https://unimi-swerc.github.io/
+[unimi-logo]: https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/a/ad/Unimi-logo.png&=20&h=20
+[unimi-2023]: https://img.shields.io/badge/2023-7th-white
+[unimi-2024]: https://img.shields.io/badge/2024-2nd-white
+[unimi-2025]: https://img.shields.io/badge/2025-6th-white
 
-Profile: [Favo02](https://atcoder.jp/users/Favo02)
+<!-- AtCoder -->
 
-![Contests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fatcoder.jp%2Fratings&query=%24.data.resources%5B%22atcoder.jp%22%5D.data%5B0%5D.length&logoColor=blue&label=Contests%3A&labelColor=%23231815&color=white)
-![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fatcoder.jp%2Fratings&query=%24.data.resources%5B%22atcoder.jp%22%5D.data%5B0%5D%5B-1%3A%5D.new_rating&logoColor=blue&label=Rating%3A&labelColor=%23231815&color=white)
-![Max rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fatcoder.jp%2Fratings&query=%24.data.resources%5B%22atcoder.jp%22%5D.max&logoColor=blue&label=Max%20rating%3A&labelColor=%23231815&color=white)
+[atcoder]: https://atcoder.jp/
+[atcoder-logo]: https://wsrv.nl/?url=https://img.atcoder.jp/assets/top/img/logo_bk.svg&w=20&h=20
+[atcoder-profile]: https://atcoder.jp/users/Favo02
+[atcoder-contests]: https://img.shields.io/badge/Contests-14-231815
+[atcoder-rating]: https://img.shields.io/badge/Rating-753-231815
+[atcoder-max]: https://img.shields.io/badge/Max_rating-772-231815
 
-<br>
+<!-- Codeforces -->
 
-## <img height="20px" src="https://register.codingcontest.org/images/mascot.svg" /> [**Cloudflight Coding Contest**](https://codingcontest.org/)
+[codeforces]: https://codeforces.com/
+[codeforces-logo]: https://wsrv.nl/?url=https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256&w=20&h=20
+[codeforces-profile]: https://codeforces.com/profile/Favo02
+[codeforces-contests]: https://img.shields.io/badge/Contests-36-1F8ACB
+[codeforces-rating]: https://img.shields.io/badge/Rating-1414-1F8ACB
+[codeforces-max]: https://img.shields.io/badge/Max_rating-1448-1F8ACB
 
-![37th CCC](https://img.shields.io/badge/37th_CCC-377th-gold)\*
-![38th CCC](https://img.shields.io/badge/38th_CCC-189th-gold)\*
-![39th CCC](https://img.shields.io/badge/39th_CCC-175th-gold)\*
-![41st CCC](https://img.shields.io/badge/41st_CCC-299th-gold)\*
+<!-- LeetCode -->
 
-<br>
+[leetcode]: https://leetcode.com/
+[leetcode-logo]: https://wsrv.nl/?url=https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=20&h=20
+[leetcode-profile]: https://leetcode.com/Favo02
+[leetcode-contests]: https://img.shields.io/badge/Contests-11-FFA116
+[leetcode-rating]: https://img.shields.io/badge/Rating-1916-FFA116
+[leetcode-max]: https://img.shields.io/badge/Max_rating-1916-FFA116
 
-## <img height="20px" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" /> [**Codeforces**](https://codeforces.com/)
+<!-- CSES Problem Set -->
 
-Profile: [Favo02](https://codeforces.com/profile/Favo02)
+[cses]: https://cses.fi/problemset/
+[cses-logo]: https://wsrv.nl/?url=https://cses.fi/logo.png&w=20&h=20
+[cses-profile]: https://cses.fi/user/271892
+[cses-solved]: https://img.shields.io/badge/Problems_solved-43-181818
 
-![Contests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fcodeforces.com%2Fratings&query=%24.data.resources%5B%22codeforces.com%22%5D.data%5B0%5D.length&logoColor=blue&label=Contests%3A&labelColor=%231F8ACB&color=white)
-![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fcodeforces.com%2Fratings&query=%24.data.resources%5B%22codeforces.com%22%5D.data%5B0%5D%5B-1%3A%5D.new_rating&logoColor=blue&label=Rating%3A&labelColor=%231F8ACB&color=white)
-![Max rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2FFavo02%2Fresource%2Fcodeforces.com%2Fratings&query=%24.data.resources%5B%22codeforces.com%22%5D.max&logoColor=blue&label=Max%20rating%3A&labelColor=%231F8ACB&color=white)
+<!-- Training OlInfo -->
 
-<br>
+[olinfo]: https://training.olinfo.it/
+[olinfo-logo]: https://wsrv.nl/?url=https://training.olinfo.it/_next/static/media/icon0.49b13162.svg&w=20&h=20
+[olinfo-profile]: https://training.olinfo.it/user/Favo02
+[olinfo-points]: https://img.shields.io/badge/Points-380-d9dba6
+[olinfo-solved]: https://img.shields.io/badge/Tasks%20solved-16-d9dba6
 
-## <img height="20px" src="https://www.codyssi.com/static/images/codyssi_logo.png" /> [**Codyssi**](https://www.codyssi.com/)
+<!-- Advent of Code -->
 
-![2025](https://img.shields.io/badge/Parts_solved-12-6ced9d)\*
+[aoc]: https://adventofcode.com/
+[aoc-logo]: https://wsrv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&s&w=20&h=20
+[aoc-2019]: https://img.shields.io/badge/2019-2_stars-darkgreen
+[aoc-2020]: https://img.shields.io/badge/2020-2_stars-darkgreen
+[aoc-2021]: https://img.shields.io/badge/2021-40_stars-darkgreen
+[aoc-2022]: https://img.shields.io/badge/2022-50_stars-gold
+[aoc-2023]: https://img.shields.io/badge/2023-50_stars-gold
+[aoc-2024]: https://img.shields.io/badge/2024-50_stars-gold
 
-<br>
+<!-- Everybody Codes -->
 
-## <img height="20px" src="https://cses.fi/logo.png?1" /> [**CSES Problem Set**](https://cses.fi/problemset/)
+[everybody-codes]: https://everybody.codes/home
+[ec-logo]: https://wsrv.nl/?url=https://everybody-codes.b-cdn.net/assets/img/logo.png&w=20&h=20
+[ec-2024]: https://img.shields.io/badge/2024-60/60_quests-e5c97b
+[ec-2025]: https://img.shields.io/badge/2025-60/60_quests-e5c97b
+[ec-story01]: https://img.shields.io/badge/Story01-9/9_quests-e5c97b
+[ec-story02]: https://img.shields.io/badge/Story02-9/9_quests-e5c97b
 
-![Solved](https://img.shields.io/badge/Problems_solved-19-181818)\*
+<!-- Codyssi -->
 
-<br>
+[codyssi]: https://www.codyssi.com/
+[codyssi-logo]: https://wsrv.nl/?url=https://www.codyssi.com/static/images/codyssi_logo.png&w=20&h=20
+[codyssi-2024]: https://img.shields.io/badge/2024-12%2F12-6ced9d
+[codyssi-2025]: https://img.shields.io/badge/2025-45%2F54-6ced9d
 
-## <img height="20px" src="https://everybody-codes.b-cdn.net/assets/img/logo.png" /> [**Everybody Codes**](https://everybody.codes/home)
+<!-- Meta Hacker Cup -->
 
-![2024](https://img.shields.io/badge/2024-60/60_quests-e5c97b)\*
-![2025](https://img.shields.io/badge/2025-33/33_quests-e5c97b)\*
-![Story01](https://img.shields.io/badge/Story01-9/9_quests-e5c97b)\*
-![Story02](https://img.shields.io/badge/Story02-9/9_quests-e5c97b)\*
+[meta]: https://www.facebook.com/codingcompetitions/hacker-cup/
+[meta-logo]: https://wsrv.nl/?url=https://logos-world.net/wp-content/uploads/2021/11/Meta-Emblem.png&w=20&h=20
+[meta-2023]: https://img.shields.io/badge/2023-5827th-0467DF
+[meta-2024r1]: https://img.shields.io/badge/2024_Round1-4860th-0467DF
+[meta-2024r2]: https://img.shields.io/badge/2024_Round2-2522th-0467DF
 
-<br>
+<!-- Reply Challenge -->
 
-## <img height="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" /> [**HackerRank**](https://www.hackerrank.com/)
+[reply]: https://challenges.reply.com/
+[reply-logo]: https://wsrv.nl/?url=https://companieslogo.com/img/orig/REY.MI-f6cc1548.png&w=20&h=20
+[reply-2023]: https://img.shields.io/badge/2023-3180th-00ac4f
+[reply-2025]: https://img.shields.io/badge/2025-40th-00ac4f
 
-![Contests](https://img.shields.io/badge/Contests-0-00EA64)\*
-![Problems solved](https://img.shields.io/badge/Problems_solved-9-00EA64)\*
+<!-- Cloudflight Coding Contest -->
 
-<br>
+[ccc]: https://codingcontest.org/
+[ccc-logo]: https://wsrv.nl/?url=https://register.codingcontest.org/images/mascot.svg&w=20&h=20
+[ccc-37]: https://img.shields.io/badge/37th_CCC-377th-gold
+[ccc-38]: https://img.shields.io/badge/38th_CCC-189th-gold
+[ccc-39]: https://img.shields.io/badge/39th_CCC-175th-gold
+[ccc-41]: https://img.shields.io/badge/41st_CCC-299th-gold
 
-## <img height="20px" src="https://itacpc.it/images/logo/logo.png" /> [**ITACPC**](https://itacpc.it/)
+<!-- HackerRank -->
 
-![2023](https://img.shields.io/badge/2023-61st-204b9b)\*
-![2024](https://img.shields.io/badge/2024-53rd-204b9b)\*
-![2025](https://img.shields.io/badge/2025-65th-204b9b)\*
+[hackerrank]: https://www.hackerrank.com/
+[hackerrank-logo]: https://wsrv.nl/?url=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png&w=20&h=20
+[hackerrank-profile]: https://www.hackerrank.com/profile/Favo02
+[hackerrank-problems]: https://img.shields.io/badge/Problems_solved-9-00EA64
 
-<br>
+<!-- Kattis -->
 
-## <img height="20px" src="https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba" /> [**Kattis**](https://open.kattis.com/)
-
-![Contests](https://img.shields.io/badge/Contests-0-f0b034)\*
-![Problems solved](https://img.shields.io/badge/Problems_solved-3-f0b034)\*
-
-<br>
-
-## <img height="20px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" /> [**LeetCode**](https://leetcode.com/)
-
-Profile: [Favo02](https://leetcode.com/Favo02)
-
-![Contests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2Ffavo02@.com%2Fresource%2Fleetcode.com%2Fratings&query=%24.data.resources%5B%22leetcode.com%22%5D.data%5B0%5D.length&logoColor=blue&label=Contests%3A&labelColor=%23FFA116&color=white)
-![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2Ffavo02@.com%2Fresource%2Fleetcode.com%2Fratings&query=%24.data.resources%5B%22leetcode.com%22%5D.data%5B0%5D%5B-1%3A%5D.new_rating&logoColor=blue&label=Rating%3A&labelColor=%23FFA116&color=white)
-![Max rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fclist.by%2Faccount%2Ffavo02@.com%2Fresource%2Fleetcode.com%2Fratings&query=%24.data.resources%5B%22leetcode.com%22%5D.max&logoColor=blue&label=Max%20rating%3A&labelColor=%23FFA116&color=white)
-
-> This resource has an independent [repository](https://github.com/Favo02/leetcode) for legacy reasons _(links spread around the internet)_.
-
-<br>
-
-## <img height="20px" src="https://logos-world.net/wp-content/uploads/2021/11/Meta-Emblem.png" /> [**Meta Hacker Cup**](https://www.facebook.com/codingcompetitions/hacker-cup/)
-
-![2023](https://img.shields.io/badge/2023-5827th-0467DF)\*
-![2024 Round1](https://img.shields.io/badge/2024_Round1-4860th-0467DF)\*
-![2024 Round1](https://img.shields.io/badge/2024_Round2-2522th-0467DF)\*
-
-<br>
-
-## <img height="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FREY.MI-f6cc1548.png%3Ft%3D1603739301&f=1&nofb=1&ipt=a9eea6dac7bcab9299bc98719237b989479b7ddf49ce5bcab7be8ace5e2c798b&ipo=images" /> [**Reply Challenge**](https://challenges.reply.com/)
-
-![2023](https://img.shields.io/badge/2023-3180th-00ac4f)\*
-![2023](https://img.shields.io/badge/2025-40th-00ac4f)\*
-
-<br>
-
-## <img height="20px" src="https://training.olinfo.it/_next/static/media/icon0.1f86a2eb.svg" /> [**Training OlInfo**](https://training.olinfo.it/)
-
-![Points](https://img.shields.io/badge/Points-138-d9dba6)\*
-
-<br>
-
-## <img height="20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP._blmP8-2pZwldN5UtMSnxgHaHa%26pid%3DApi&f=1&ipt=2f9e41eb37d4716257622fa5ef41993ffc372321ee2ba504512028c018880f10&ipo=images" /> [**UNIMI SWERC**](https://unimi-swerc.github.io/)
-
-![2023](https://img.shields.io/badge/2023-7th-white)\*
-![2024](https://img.shields.io/badge/2024-2nd-white)\*
-![2025](https://img.shields.io/badge/2025-6th-white)\*
+[kattis]: https://open.kattis.com/
+[kattis-logo]: https://wsrv.nl/?url=https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba&w=20&h=20
+[kattis-profile]: https://open.kattis.com/users/favo02
+[kattis-problems]: https://img.shields.io/badge/Problems_solved-3-f0b034
