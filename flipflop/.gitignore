@@ -1,0 +1,7 @@
+# rust project
+Cargo.toml
+Cargo.lock
+target/
+
+# inputs
+*.in

@@ -29,6 +29,7 @@ All the code written for competitive programming contests, events and similar.
 | _**Seasonal Events**_                             |                              |                                                                         |
 | ![aoc-logo] [**Advent of Code**][aoc]'            |            Favo02            | ![aoc-2019] ![aoc-2020] ![aoc-2021] ![aoc-2022] ![aoc-2023] ![aoc-2024] |
 | ![ec-logo] [**Everybody Codes**][everybody-codes] |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02]                       |
+| ![flipflop-logo] [**FlipFlop**][flipflop]         |            Favo02            | ![flipflop-2025]                                                        |
 | ![codyssi-logo] [**Codyssi**][codyssi]            |         Luca (#515)          | ![codyssi-2024] ![codyssi-2025]                                         |
 | _**Companies Events**_                            |                              |                                                                         |
 | ![meta-logo] [**Meta Hacker Cup**][meta]          |            Favo02            | ![meta-2023] ![meta-2024r1] ![meta-2024r2]                              |
@@ -117,6 +118,12 @@ All the code written for competitive programming contests, events and similar.
 [ec-2025]: https://img.shields.io/badge/2025-60/60_quests-e5c97b
 [ec-story01]: https://img.shields.io/badge/Story01-9/9_quests-e5c97b
 [ec-story02]: https://img.shields.io/badge/Story02-9/9_quests-e5c97b
+
+<!-- FlipFlop -->
+
+[flipflop]: https://flipflop.slome.org/
+[flipflop-logo]: https://wsrv.nl/?url=https://flipflop.slome.org/assets/img/favicon.png?v=2&w=20&h=20
+[flipflop-2025]: https://img.shields.io/badge/2025-21/21_puzzles-9cdcfe
 
 <!-- Codyssi -->
 
