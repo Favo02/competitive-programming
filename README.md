@@ -2,8 +2,6 @@
 
 All the code written for competitive programming contests, events and similar.
 
-<!-- TODO: SWERC pisa 2024 -->
-<!-- TODO: SWERC pisa 2025 -->
 <!-- TODO: project euler -->
 
 > [!NOTE]
@@ -17,6 +15,7 @@ All the code written for competitive programming contests, events and similar.
 | Platform                                          |           Profile            | Stats                                                                               |
 | ------------------------------------------------- | :--------------------------: | ----------------------------------------------------------------------------------- |
 | _**In-Person Competitions**_                      |                              |                                                                                     |
+| ![swerc-logo] [**ICPC SWERC**][swerc]             |       _various teams_        | ![swerc-2024-pisa] ![swerc-2025-pisa]                                               |
 | ![itacpc-logo] [**ITACPC**][itacpc]               |       _various teams_        | ![itacpc-2023] ![itacpc-2024] ![itacpc-2025]                                        |
 | ![unimi-logo] [**UNIMI SWERC**][unimi]            |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025]                                           |
 | _**Online Judges**_                               |                              |                                                                                     |
@@ -40,6 +39,13 @@ All the code written for competitive programming contests, events and similar.
 | ![kattis-logo] [**Kattis**][kattis]               |   [Favo02][kattis-profile]   | ![kattis-problems]                                                                  |
 
 > Icons using [wsrv.nl](https://wsrv.nl/), badges from [shields.io](https://shields.io/), data from [clist.by](https://clist.by/).
+
+<!-- SWERC -->
+
+[swerc]: https://swerc.eu/
+[swerc-logo]: https://wsrv.nl/?url=https://news.icpc.global/icpc_foundation.svg&w=20&h=20
+[swerc-2024-pisa]: https://img.shields.io/badge/2024%20pisa-63rd%20%2F%20141-b22d1b
+[swerc-2025-pisa]: https://img.shields.io/badge/2025%20pisa-72nd%20%2F%20142-b22d1b
 
 <!-- ITACPC -->
 
