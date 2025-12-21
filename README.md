@@ -2,8 +2,6 @@
 
 All the code written for competitive programming contests, events and similar.
 
-<!-- TODO: project euler -->
-
 > [!NOTE]
 > Most platform/events have a dedicated folder with a detailed README (especially the team competitions).
 
@@ -12,31 +10,32 @@ All the code written for competitive programming contests, events and similar.
 >
 > Resources marked with **'** have an independent repository for legacy reasons (links spread around the web).
 
-| Platform                                          |           Profile            | Stats                                                                               |
-| ------------------------------------------------- | :--------------------------: | ----------------------------------------------------------------------------------- |
-| _**In-Person Competitions**_                      |                              |                                                                                     |
-| ![swerc-logo] [**ICPC SWERC**][swerc]             |       _various teams_        | ![swerc-2024-pisa] ![swerc-2025-pisa]                                               |
-| ![itacpc-logo] [**ITACPC**][itacpc]               |       _various teams_        | ![itacpc-2023] ![itacpc-2024] ![itacpc-2025]                                        |
-| ![unimi-logo] [**UNIMI SWERC**][unimi]            |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025]                                           |
-| _**Online Judges**_                               |                              |                                                                                     |
-| ![atcoder-logo] [**AtCoder**][atcoder]            |  [Favo02][atcoder-profile]   | ![atcoder-contests] ![atcoder-rating] ![atcoder-max]                                |
-| ![codeforces-logo] [**Codeforces**][codeforces]   | [Favo02][codeforces-profile] | ![codeforces-contests] ![codeforces-rating] ![codeforces-max]                       |
-| ![leetcode-logo] [**LeetCode**][leetcode]'        |  [Favo02][leetcode-profile]  | ![leetcode-contests] ![leetcode-rating] ![leetcode-max]                             |
-| _**Training Platforms**_                          |                              |                                                                                     |
-| ![cses-logo] [**CSES**][cses]                     |    [Favo02][cses-profile]    | ![cses-solved]                                                                      |
-| ![olinfo-logo] [**Training OlInfo**][olinfo]      |   [Favo02][olinfo-profile]   | ![olinfo-points] ![olinfo-solved]                                                   |
-| _**Seasonal Events**_                             |                              |                                                                                     |
-| ![aoc-logo] [**Advent of Code**][aoc]'            |            Favo02            | ![aoc-2019] ![aoc-2020] ![aoc-2021] ![aoc-2022] ![aoc-2023] ![aoc-2024] ![aoc-2025] |
-| ![ec-logo] [**Everybody Codes**][everybody-codes] |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02]                                   |
-| ![flipflop-logo] [**FlipFlop**][flipflop]         |            Favo02            | ![flipflop-2025]                                                                    |
-| ![codyssi-logo] [**Codyssi**][codyssi]            |         Luca (#515)          | ![codyssi-2024] ![codyssi-2025]                                                     |
-| _**Companies Events**_                            |                              |                                                                                     |
-| ![meta-logo] [**Meta Hacker Cup**][meta]          |            Favo02            | ![meta-2023] ![meta-2024r1] ![meta-2024r2]                                          |
-| ![reply-logo] [**Reply Challenge**][reply]        |       _various teams_        | ![reply-2023] ![reply-2025]                                                         |
-| ![ccc-logo] [**Cloudflight Coding Contest**][ccc] |       _various teams_        | ![ccc-37] ![ccc-38] ![ccc-39] ![ccc-41]                                             |
-| _**Various and Rarely Used**_                     |                              |                                                                                     |
-| ![hackerrank-logo] [**HackerRank**][hackerrank]   | [Favo02][hackerrank-profile] | ![hackerrank-problems]                                                              |
-| ![kattis-logo] [**Kattis**][kattis]               |   [Favo02][kattis-profile]   | ![kattis-problems]                                                                  |
+| Platform                                               |           Profile            | Stats                                                                               |
+| ------------------------------------------------------ | :--------------------------: | ----------------------------------------------------------------------------------- |
+| _**In-Person Competitions**_                           |                              |                                                                                     |
+| ![swerc-logo] [**ICPC SWERC**][swerc]                  |       _various teams_        | ![swerc-2024-pisa] ![swerc-2025-pisa]                                               |
+| ![itacpc-logo] [**ITACPC**][itacpc]                    |       _various teams_        | ![itacpc-2023] ![itacpc-2024] ![itacpc-2025]                                        |
+| ![unimi-logo] [**UNIMI SWERC**][unimi]                 |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025]                                           |
+| _**Online Judges**_                                    |                              |                                                                                     |
+| ![atcoder-logo] [**AtCoder**][atcoder]                 |  [Favo02][atcoder-profile]   | ![atcoder-contests] ![atcoder-rating] ![atcoder-max]                                |
+| ![codeforces-logo] [**Codeforces**][codeforces]        | [Favo02][codeforces-profile] | ![codeforces-contests] ![codeforces-rating] ![codeforces-max]                       |
+| ![leetcode-logo] [**LeetCode**][leetcode]'             |  [Favo02][leetcode-profile]  | ![leetcode-contests] ![leetcode-rating] ![leetcode-max]                             |
+| _**Training Platforms**_                               |                              |                                                                                     |
+| ![cses-logo] [**CSES**][cses]                          |    [Favo02][cses-profile]    | ![cses-solved]                                                                      |
+| ![olinfo-logo] [**Training OlInfo**][olinfo]           |   [Favo02][olinfo-profile]   | ![olinfo-points] ![olinfo-solved]                                                   |
+| ![projecteuler-logo] [**Project Euler**][projecteuler] |            Favo02            | ![projecteuler-solved]                                                              |
+| _**Seasonal Events**_                                  |                              |                                                                                     |
+| ![aoc-logo] [**Advent of Code**][aoc]'                 |            Favo02            | ![aoc-2019] ![aoc-2020] ![aoc-2021] ![aoc-2022] ![aoc-2023] ![aoc-2024] ![aoc-2025] |
+| ![ec-logo] [**Everybody Codes**][everybody-codes]      |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02]                                   |
+| ![flipflop-logo] [**FlipFlop**][flipflop]              |            Favo02            | ![flipflop-2025]                                                                    |
+| ![codyssi-logo] [**Codyssi**][codyssi]                 |         Luca (#515)          | ![codyssi-2024] ![codyssi-2025]                                                     |
+| _**Companies Events**_                                 |                              |                                                                                     |
+| ![meta-logo] [**Meta Hacker Cup**][meta]               |            Favo02            | ![meta-2023] ![meta-2024r1] ![meta-2024r2]                                          |
+| ![reply-logo] [**Reply Challenge**][reply]             |       _various teams_        | ![reply-2023] ![reply-2025]                                                         |
+| ![ccc-logo] [**Cloudflight Coding Contest**][ccc]      |       _various teams_        | ![ccc-37] ![ccc-38] ![ccc-39] ![ccc-41]                                             |
+| _**Various and Rarely Used**_                          |                              |                                                                                     |
+| ![hackerrank-logo] [**HackerRank**][hackerrank]        | [Favo02][hackerrank-profile] | ![hackerrank-problems]                                                              |
+| ![kattis-logo] [**Kattis**][kattis]                    |   [Favo02][kattis-profile]   | ![kattis-problems]                                                                  |
 
 > Icons using [wsrv.nl](https://wsrv.nl/), badges from [shields.io](https://shields.io/), data from [clist.by](https://clist.by/).
 
@@ -104,6 +103,12 @@ All the code written for competitive programming contests, events and similar.
 [olinfo-profile]: https://training.olinfo.it/user/Favo02
 [olinfo-points]: https://img.shields.io/badge/Points-380-d9dba6
 [olinfo-solved]: https://img.shields.io/badge/Tasks%20solved-16-d9dba6
+
+<!-- Project Euler -->
+
+[projecteuler]: https://projecteuler.net/
+[projecteuler-logo]: https://wsrv.nl/?url=https://projecteuler.net/favicons/favicon-16x16.png&w=20&h=20
+[projecteuler-solved]: https://img.shields.io/badge/Problems%20solved-10-ff9933
 
 <!-- Advent of Code -->
 
