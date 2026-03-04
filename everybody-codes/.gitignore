@@ -2,3 +2,8 @@
 *.in
 *ignore*
 *.out
+
+# rust
+Cargo.toml
+Cargo.lock
+target/
