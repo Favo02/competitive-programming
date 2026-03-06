@@ -26,7 +26,7 @@ All the code written for competitive programming contests, events and similar.
 | ![projecteuler-logo] [**Project Euler**][projecteuler] |            Favo02            | ![projecteuler-solved]                                                              |
 | _**Seasonal Events**_                                  |                              |                                                                                     |
 | ![aoc-logo] [**Advent of Code**][aoc]'                 |            Favo02            | ![aoc-2019] ![aoc-2020] ![aoc-2021] ![aoc-2022] ![aoc-2023] ![aoc-2024] ![aoc-2025] |
-| ![ec-logo] [**Everybody Codes**][everybody-codes]      |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02]                                   |
+| ![ec-logo] [**Everybody Codes**][everybody-codes]      |            Favo02            | ![ec-2024] ![ec-2025] ![ec-story01] ![ec-story02] ![ec-story03]                     |
 | ![flipflop-logo] [**FlipFlop**][flipflop]              |            Favo02            | ![flipflop-2025]                                                                    |
 | ![codyssi-logo] [**Codyssi**][codyssi]                 |         Luca (#515)          | ![codyssi-2024] ![codyssi-2025]                                                     |
 | _**Companies Events**_                                 |                              |                                                                                     |
@@ -130,6 +130,7 @@ All the code written for competitive programming contests, events and similar.
 [ec-2025]: https://img.shields.io/badge/2025-60/60_quests-e5c97b
 [ec-story01]: https://img.shields.io/badge/Story01-9/9_quests-e5c97b
 [ec-story02]: https://img.shields.io/badge/Story02-9/9_quests-e5c97b
+[ec-story03]: https://img.shields.io/badge/Story03-9/9_quests-e5c97b
 
 <!-- FlipFlop -->
 
