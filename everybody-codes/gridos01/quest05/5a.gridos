@@ -1,0 +1,13 @@
+HEADS AA
+
+START ** READY1 +* SD
+READY1 ** TOP ** RR
+
+TOP .@ TOP +* RR
+TOP .. DOWN +. DD
+DOWN .. BOTTOM ++ RR
+BOTTOM @. BOTTOM *+ RR
+BOTTOM .. UP .+ UU
+UP .. TOP ++ RR
+
+BOTTOM __ STOP ** SS
