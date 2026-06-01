@@ -1,57 +1,17 @@
-HEADS AAAAAB
+HEADS AAAA
 
-START ****** WAIT1 ****** LSDDLR
-WAIT1 ****** WAIT2 ****** SSLSDD
-WAIT2 ****** R_STOP ****EE SSSSSS
+START **** WAIT1 **** LSDD
+WAIT1 **** WAIT2 **** SSLS
+WAIT2 **** RIGHT **** SSSS
 
+RIGHT _#*_ RIGHT **** RRRR
+RIGHT ##*_ RIGHT **** RRRR
+RIGHT #=*_ RIGHT *~** RRRR
+RIGHT ~=*_ RIGHT *~*~ RRRR
+RIGHT ~#*_ RIGHT **_* RRRR
+RIGHT __*_ RIGHT **** RRRR
+RIGHT ~_*_ RIGHT **_* RRRR
+RIGHT ~~*_ RIGHT **~* RRRR
+RIGHT _~*_ RIGHT ***_ RRRR
 
-R_STOP _#*_** R_STOP ****** RRRRSS
-R_STOP ##*_** R_STOP ****** RRRRSS
-R_STOP #=*_** R_KEEP *~**** RRRRSS
-R_STOP ~=*_** R_KEEP *~*~** RRRRSS
-R_STOP ~#*_** R_STOP **_*** RRRRSS
-R_STOP __*_** R_STOP ****** RRRRSS
-R_STOP ~_*_** R_STOP **_*** RRRRSS
-R_STOP ~~*_** R_KEEP **~*** RRRRSS
-R_STOP _~*_** R_STOP ***_** RRRRSS
-
-R_KEEP _#*_** R_KEEP ****** RRRRSS
-R_KEEP ##*_** R_KEEP ****** RRRRSS
-R_KEEP #=*_** R_KEEP *~**** RRRRSS
-R_KEEP ~=*_** R_KEEP *~*~** RRRRSS
-R_KEEP ~#*_** R_KEEP **_*** RRRRSS
-R_KEEP __*_** R_KEEP ****** RRRRSS
-R_KEEP ~_*_** R_KEEP **_*** RRRRSS
-R_KEEP ~~*_** R_KEEP **~*** RRRRSS
-R_KEEP _~*_** R_KEEP ***_** RRRRSS
-
-R_STOP ***E** STOP ****__ SSSSSS
-
-R_KEEP ***E** STOP ****__ DDDDDD
-RTOL ****** L_STOP ****EE SSSSSS
-
-
-L_STOP _#_*** L_STOP ****** LLLLSS
-L_STOP ##_*** L_STOP ****** LLLLSS
-L_STOP #=_*** L_KEEP *~**** LLLLSS
-L_STOP ~=_*** L_KEEP *~*~** LLLLSS
-L_STOP ~#_*** L_STOP **_*** LLLLSS
-L_STOP ___*** L_STOP ****** LLLLSS
-L_STOP ~__*** L_STOP **_*** LLLLSS
-L_STOP ~~_*** L_KEEP **~*** LLLLSS
-L_STOP _~_*** L_STOP ***_** LLLLSS
-
-L_KEEP _#_*** L_KEEP ****** LLLLSS
-L_KEEP ##_*** L_KEEP ****** LLLLSS
-L_KEEP #=_*** L_KEEP *~**** LLLLSS
-L_KEEP ~=_*** L_KEEP *~*~** LLLLSS
-L_KEEP ~#_*** L_KEEP **_*** LLLLSS
-L_KEEP ___*** L_KEEP ****** LLLLSS
-L_KEEP ~__*** L_KEEP **_*** LLLLSS
-L_KEEP ~~_*** L_KEEP **~*** LLLLSS
-L_KEEP _~_*** L_KEEP ***_** LLLLSS
-
-L_STOP **E*** STOP ****__ SSSSSS
-
-L_KEEP **E*** LTOR ****__ DDDDDD
-LTOR ****** R_STOP ****EE SSSSSS
+RIGHT *_*_ STOP **** SSSS

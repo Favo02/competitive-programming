@@ -1,57 +1,37 @@
-HEADS AAAAAB
+HEADS AAAAAA
 
-START ****** WAIT1 ****** LSDDLR
-WAIT1 ****** WAIT2 ****** SSLSDD
-WAIT2 ****** R_STOP ****EE SSSSSS
+START ****** WAIT ****** LSRLSR
+WAIT ****** READY ****** SSSDDD
 
+READY ~~=*** READY **~*~* RRRRRR
+READY ###*** READY ****** RRRRRR
+READY #~#*** READY ****** RRRRRR
+READY ~#=*** READY **~*** RRRRRR
+READY _##*** READY ****** RRRRRR
+READY _#=*** READY **~*** RRRRRR
+READY ##=*** READY **~*** RRRRRR
+READY #~=*** READY **~*** RRRRRR
+READY ~##*** READY ****** RRRRRR
+READY ~~~*** READY ****** RRRRRR
+READY ~~#_** READY ****** RRRRRR
 
-R_STOP _#*_** R_STOP ****** RRRRSS
-R_STOP ##*_** R_STOP ****** RRRRSS
-R_STOP #=*_** R_KEEP *~**** RRRRSS
-R_STOP ~=*_** R_KEEP *~*~** RRRRSS
-R_STOP ~#*_** R_STOP **_*** RRRRSS
-R_STOP __*_** R_STOP ****** RRRRSS
-R_STOP ~_*_** R_STOP **_*** RRRRSS
-R_STOP ~~*_** R_KEEP **~*** RRRRSS
-R_STOP _~*_** R_STOP ***_** RRRRSS
+READY ~~#~** LEFT **U*** DDDDDD
+READY ~~U*** READY **#*** RRRRRR
 
-R_KEEP _#*_** R_KEEP ****** RRRRSS
-R_KEEP ##*_** R_KEEP ****** RRRRSS
-R_KEEP #=*_** R_KEEP *~**** RRRRSS
-R_KEEP ~=*_** R_KEEP *~*~** RRRRSS
-R_KEEP ~#*_** R_KEEP **_*** RRRRSS
-R_KEEP __*_** R_KEEP ****** RRRRSS
-R_KEEP ~_*_** R_KEEP **_*** RRRRSS
-R_KEEP ~~*_** R_KEEP **~*** RRRRSS
-R_KEEP _~*_** R_KEEP ***_** RRRRSS
+LEFT ~__*** LEFT ****** LLLLLL
+LEFT ~~_*** LEFT ****** LLLLLL
+LEFT ~~~*** LEFT ****~* LLLLLL
+LEFT _~~*** BACK ****** UUUUUU
+LEFT _~_*** BACK ****** UUUUUU
 
-R_STOP ***E** STOP ****__ SSSSSS
+RIGHT __~*** RIGHT ****** RRRRRR
+RIGHT _~~*** RIGHT ****** RRRRRR
+RIGHT ~~~*** RIGHT ****~* RRRRRR
+RIGHT ~~_*** LEFT ****** DDDDDD
+RIGHT ___*** BACK ****** UUUUUU
+RIGHT _~_*** BACK ****** UUUUUU
 
-R_KEEP ***E** RTOL ****__ DDDDDD
-RTOL ****** L_STOP ****EE SSSSSS
+BACK *!**** BACK ****** UUUUUU
+BACK ___*** READY ****** DDDDDD
 
-
-L_STOP _#_*** L_STOP ****** LLLLSS
-L_STOP ##_*** L_STOP ****** LLLLSS
-L_STOP #=_*** L_KEEP *~**** LLLLSS
-L_STOP ~=_*** L_KEEP *~*~** LLLLSS
-L_STOP ~#_*** L_STOP **_*** LLLLSS
-L_STOP ___*** L_STOP ****** LLLLSS
-L_STOP ~__*** L_STOP **_*** LLLLSS
-L_STOP ~~_*** L_KEEP **~*** LLLLSS
-L_STOP _~_*** L_STOP ***_** LLLLSS
-
-L_KEEP _#_*** L_KEEP ****** LLLLSS
-L_KEEP ##_*** L_KEEP ****** LLLLSS
-L_KEEP #=_*** L_KEEP *~**** LLLLSS
-L_KEEP ~=_*** L_KEEP *~*~** LLLLSS
-L_KEEP ~#_*** L_KEEP **_*** LLLLSS
-L_KEEP ___*** L_KEEP ****** LLLLSS
-L_KEEP ~__*** L_KEEP **_*** LLLLSS
-L_KEEP ~~_*** L_KEEP **~*** LLLLSS
-L_KEEP _~_*** L_KEEP ***_** LLLLSS
-
-L_STOP **E*** STOP ****__ SSSSSS
-
-L_KEEP **E*** STOP ****__ DDDDDD
-LTOR ****** R_STOP ****EE SSSSSS
+READY **_*** STOP ****** SSSSSS
