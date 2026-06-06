@@ -1,22 +1,65 @@
-HEADS AA
+HEADS AAAA
 
-START ** RIGHT ** SR
+START   **** WAIT   ****    SRDD
+WAIT    **** RIGHT  ****    SSSR
 
-RIGHT AB RIGHT _* RR
-RIGHT BA RIGHT _* RR
-RIGHT AA RIGHT @* RR
-RIGHT BB RIGHT @* RR
+RIGHT   A___ STOP   _***    SSSS
+RIGHT   B___ STOP   _***    SSSS
 
-RIGHT *_ RTOL __ DD
-RTOL !* LEFT ** LL
+RIGHT   AB__ RIGHT  _***    RRRR
+RIGHT   BA__ RIGHT  _***    RRRR
+RIGHT   AA__ RIGHT  @***    RRRR
+RIGHT   BB__ RIGHT  @***    RRRR
 
-LEFT AB LEFT *_ LL
-LEFT BA LEFT *_ LL
-LEFT AA LEFT *@ LL
-LEFT BB LEFT *@ LL
+RIGHT   ABAA RIGHT  _*@*    RRRR
+RIGHT   BBAA RIGHT  @*@*    RRRR
+RIGHT   BAAB RIGHT  _*_*    RRRR
+RIGHT   AABB RIGHT  @*@*    RRRR
+RIGHT   ABBB RIGHT  _*@*    RRRR
+RIGHT   BABA RIGHT  _*_*    RRRR
+RIGHT   AAAA RIGHT  @*@*    RRRR
+RIGHT   BBBB RIGHT  @*@*    RRRR
+RIGHT   ABAB RIGHT  _*_*    RRRR
+RIGHT   ABBA RIGHT  _*_*    RRRR
+RIGHT   AABA RIGHT  @*_*    RRRR
+RIGHT   AAAB RIGHT  @*_*    RRRR
+RIGHT   BBBA RIGHT  @*_*    RRRR
+RIGHT   BABB RIGHT  _*@*    RRRR
+RIGHT   BAAA RIGHT  _*@*    RRRR
+RIGHT   BBAB RIGHT  @*_*    RRRR
 
-LEFT _* LTOR __ DD
-LTOR *! RIGHT ** RR
+RIGHT   !_!_ RTOL1  _*_*    DDDD
+RTOL1   **** RTOL2  ****    DDDD
+RTOL2   **** LEFT   ****    LLLL
 
-LTOR __ STOP ** SS
-RTOL __ STOP ** SS
+LEFT    _A__ STOP   *_**    SSSS
+LEFT    _B__ STOP   *_**    SSSS
+
+LEFT    AB__ LEFT   *_**    LLLL
+LEFT    BA__ LEFT   *_**    LLLL
+LEFT    AA__ LEFT   *@**    LLLL
+LEFT    BB__ LEFT   *@**    LLLL
+
+LEFT    ABAA LEFT   *_*@    LLLL
+LEFT    BBAA LEFT   *@*@    LLLL
+LEFT    BAAB LEFT   *_*_    LLLL
+LEFT    AABB LEFT   *@*@    LLLL
+LEFT    ABBB LEFT   *_*@    LLLL
+LEFT    BABA LEFT   *_*_    LLLL
+LEFT    AAAA LEFT   *@*@    LLLL
+LEFT    BBBB LEFT   *@*@    LLLL
+LEFT    ABAB LEFT   *_*_    LLLL
+LEFT    ABBA LEFT   *_*_    LLLL
+LEFT    AABA LEFT   *@*_    LLLL
+LEFT    AAAB LEFT   *@*_    LLLL
+LEFT    BBBA LEFT   *@*_    LLLL
+LEFT    BABB LEFT   *_*@    LLLL
+LEFT    BAAA LEFT   *_*@    LLLL
+LEFT    BBAB LEFT   *@*_    LLLL
+
+LEFT    _!_! LTOR1  *_*_    DDDD
+LTOR1   **** LTOR2  ****    DDDD
+LTOR2   **** RIGHT  ****    RRRR
+
+LEFT    ____ STOP   ****    SSSS
+RIGHT   ____ STOP   ****    SSSS

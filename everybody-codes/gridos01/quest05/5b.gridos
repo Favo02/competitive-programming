@@ -1,26 +1,61 @@
-HEADS AA
+HEADS AAACCC
 
-START ** READY1 +* SD
-READY1 ** TOP ** RR
+START   ****** WAIT1 +**+++ SDDSLL
+WAIT1   ****** WAIT2 ***+++ SSDSSL
+WAIT2   ****** TT    ***+++ RRRUUU
 
-TOP .@ TOP +* RR
-TOP .. DOWN +. DD
-DOWN .. BOTTOM ++ RR
-BOTTOM @. BOTTOM *+ RR
-BOTTOM .. UP .+ UU
-UP .. TOP ++ RR
+TT      *@**.* TB   +**+++ RRRUUU
+TT      *.**@* BT   ++++** RRRUUU
+TT      *.**.* BB   ++++++ RRRUUU
+TT      *@**@* TT   +**+** RRRUUU
+TT      .++.++ TT   ++++++ RRRUUU
 
-BOTTOM __ TRANSITION1 ** LS
-TRANSITION1 ** TRANSITION2 ** DS
-TRANSITION2 ** TRANSITION3 ** LL
-TRANSITION3 ** TRANSITION4 ++ LL
-TRANSITION4 ** LEFT ++ DD
+TB      *@**.* TT   +**+++ RRRUUU
+TB      *.**@* BB   +++**+ RRRUUU
+TB      *.**.* BT   ++++++ RRRUUU
+TB      *@**@* TB   +****+ RRRUUU
 
-LEFT .@ LEFT +* DD
-LEFT .. TOR ++ RR
-TOR +. RIGHT ++ DD
-RIGHT @. RIGHT @+ DD
-RIGHT .. TOL ++ LL
-TOL .+ LEFT ++ DD
+BT      *@**.* BB   **++++ RRRUUU
+BT      *.**@* TT   ++++** RRRUUU
+BT      *.**.* TB   ++++++ RRRUUU
+BT      *@**@* BT   **++** RRRUUU
 
-LEFT __ STOP ** SS
+BB      *@**.* BT   **++++ RRRUUU
+BB      *.**@* TB   +++**+ RRRUUU
+BB      *.**.* TT   ++++++ RRRUUU
+BB      *@**@* BB   **+**+ RRRUUU
+
+TT      *@*___ TT   +**___ RRRSSS
+TT      *.*___ BT   +++___ RRRSSS
+TT      ___*.* TB   ___+++ SSSUUU
+TT      ___*@* TT   ___+** SSSUUU
+
+TB      *@*___ TB   +**___ RRRSSS
+TB      *.*___ BB   +++___ RRRSSS
+TB      ___*.* BT   ___+++ SSSUUU
+TB      ___*@* BB   ___+** SSSUUU
+
+BT      *@*___ BT   **+___ RRRSSS
+BT      *.*___ TT   +++___ RRRSSS
+BT      ___*.* BB   ___+++ SSSUUU
+BT      ___*@* BT   ___+** SSSUUU
+
+BB      *@*___ BB   **+___ RRRSSS
+BB      *.*___ TB   +++___ RRRSSS
+BB      ___*.* BT   ___+++ SSSUUU
+BB      ___*@* BB   ___**+ SSSUUU
+
+TT      ______ STOP ****** SSSSSS
+TB      ______ STOP ****** SSSSSS
+BT      ______ STOP ****** SSSSSS
+BB      ______ STOP ****** SSSSSS
+
+TT      ___+++ TT ****** SSSUUU
+TB      ___+++ TB ****** SSSUUU
+BT      ___+++ BT ****** SSSUUU
+BB      ___+++ BB ****** SSSUUU
+
+TT      +++___ TT ****** RRRSSS
+TB      +++___ TB ****** RRRSSS
+BT      +++___ BT ****** RRRSSS
+BB      +++___ BB ****** RRRSSS

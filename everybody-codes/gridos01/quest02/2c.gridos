@@ -1,56 +1,49 @@
-HEADS AAD
+HEADS AAAAD
 
-START *** WAIT1 *** SRD
-WAIT1 *** RIGHT *** SSD
+START   ***** WAIT      ***** SRDUD
+WAIT    ***** RIGHT     ***** SSSUD
 
-RIGHT AB* RIGHT *** RRS
-RIGHT BA* RIGHT *** RRS
-RIGHT AA* RIGHT **@ RRR
-RIGHT BB* RIGHT **@ RRR
+RIGHT   AAA** RIGHT     _**@@ RRRRR
+RIGHT   AAB** RIGHT     _**@* RRRRR
+RIGHT   ABA** RIGHT     _**@* RRRRR
+RIGHT   ABB** RIGHT     _**** RRRRR
+RIGHT   BAA** RIGHT     _**** RRRRR
+RIGHT   BAB** RIGHT     _**@* RRRRR
+RIGHT   BBA** RIGHT     _**@* RRRRR
+RIGHT   BBB** RIGHT     _**@@ RRRRR
 
-RIGHT *_* RTOL *** DDS
-RTOL !** LEFT *** LLS
+RIGHT   A_B** RTOL      _**** DDDSS
+RIGHT   B_A** RTOL      _**** DDDSS
+RIGHT   A_A** RTOL      _**@* DDDRR
+RIGHT   B_B** RTOL      _**@* DDDRR
 
-LEFT AB* LEFT *** LLS
-LEFT BA* LEFT *** LLS
-LEFT AA* LEFT **@ LLR
-LEFT BB* LEFT **@ LLR
+RTOL    ***** LEFT      ***** LLSSS
 
-LEFT _** LTOR *** DDS
-LTOR *!* RIGHT *** RRS
+LEFT    AAA** LEFT      *_*@@ LLLRR
+LEFT    AAB** LEFT      *_*@* LLLRR
+LEFT    ABA** LEFT      *_*** LLLRR
+LEFT    ABB** LEFT      *_*@* LLLRR
+LEFT    BAA** LEFT      *_*@* LLLRR
+LEFT    BAB** LEFT      *_*** LLLRR
+LEFT    BBA** LEFT      *_*@* LLLRR
+LEFT    BBB** LEFT      *_*@@ LLLRR
 
-RTOL __* HTOVR1 *** USS
-HTOVR1 *** HTOVR2 *** SLS
-HTOVR2 *** VLEFT *** UUS
+LEFT    _AB** LTOR      *_*** DDDSS
+LEFT    _BA** LTOR      *_*** DDDSS
+LEFT    _AA** LTOR      *_*@* DDDRR
+LEFT    _BB** LTOR      *_*@* DDDRR
 
-LTOR __* HTOVL1 *** USS
-HTOVL1 *** HTOVL2 *** RSS
-HTOVL2 *** VRIGHT *** UUS
+LTOR    ***** RIGHT     ***** RRSSS
 
-VRIGHT AB* VRIGHT *_* RRS
-VRIGHT BA* VRIGHT *_* RRS
-VRIGHT AA* VRIGHT *_@ RRR
-VRIGHT BB* VRIGHT *_@ RRR
+RIGHT   AB_** RIGHT     _**** RRRSS
+RIGHT   BA_** RIGHT     _**** RRRSS
+RIGHT   AA_** RIGHT     _**@* RRRRS
+RIGHT   BB_** RIGHT     _**@* RRRRS
 
-VRIGHT __* VRTOVL *** UUS
-VRTOVL *** VLEFT *** LLS
+LEFT    AB_** LEFT      *_*** LLLSS
+LEFT    BA_** LEFT      *_*** LLLSS
+LEFT    AA_** LEFT      *_*@* LLLRS
+LEFT    BB_** LEFT      *_*@* LLLRS
 
-VRIGHT _!* CLEANUPR *** SSS
-VRIGHT !_* CLEANUPR *** SSS
-
-CLEANUPR *!* CLEANUPR *_* RRS
-CLEANUPR *_* STOP *** SSS
-
-VLEFT AB* VLEFT *_* LLS
-VLEFT BA* VLEFT *_* LLS
-VLEFT AA* VLEFT *_@ LLR
-VLEFT BB* VLEFT *_@ LLR
-
-VLEFT __* VLTOVR *** UUS
-VLTOVR *** VRIGHT *** RRS
-
-VLEFT !_* CLEANUPL *** SSS
-VLEFT _!* CLEANUPL *** SSS
-
-CLEANUPL *!* CLEANUPL *_* LLS
-CLEANUPL *_* STOP *** SSS
+RIGHT   !__** STOP      _**** SSSSS
+LEFT    _!_** STOP      *_*** SSSSS

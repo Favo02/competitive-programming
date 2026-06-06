@@ -1,13 +1,39 @@
-HEADS AA
+HEADS AADBBC
 
-START ** READY1 +* SD
-READY1 ** TOP ** RR
+START   ****** WAIT +**+++ SDSSDS
+WAIT    ****** TT   ***+++ RRRLLL
 
-TOP .@ TOP +* RR
-TOP .. DOWN +. DD
-DOWN .. BOTTOM ++ RR
-BOTTOM @. BOTTOM *+ RR
-BOTTOM .. UP .+ UU
-UP .. TOP ++ RR
+TT      .@.*.* TB   +**+++ RRRLLL
+TT      ...*@* BT   ++++** RRRLLL
+TT      ...*.* BB   ++++++ RRRLLL
+TT      .@.*@* TT   +**+** RRRLLL
 
-BOTTOM __ STOP ** SS
+TB      .@.*.* TT   +**+++ RRRLLL
+TB      ...*@* BB   +++**+ RRRLLL
+TB      ...*.* BT   ++++++ RRRLLL
+TB      .@.*@* TB   +****+ RRRLLL
+
+BT      .@.*.* BB   **++++ RRRLLL
+BT      ...*@* TT   ++++** RRRLLL
+BT      ...*.* TB   ++++++ RRRLLL
+BT      .@.*@* BT   **++** RRRLLL
+
+BB      .@.*.* BT   **++++ RRRLLL
+BB      ...*@* TB   +++**+ RRRLLL
+BB      ...*.* TT   ++++++ RRRLLL
+BB      .@.*@* BB   **+**+ RRRLLL
+
+TT      +*.*** STOP ****** SSSSSS
+TB      +*.*** STOP ****** SSSSSS
+BT      +*.*** STOP ****** SSSSSS
+BB      +*.*** STOP ****** SSSSSS
+
+TT      .*+*** STOP ****** SSSSSS
+TB      .*+*** STOP ****** SSSSSS
+BT      .*+*** STOP ****** SSSSSS
+BB      .*+*** STOP ****** SSSSSS
+
+TT      +*+*** STOP ****** SSSSSS
+TB      +*+*** STOP ****** SSSSSS
+BT      +*+*** STOP ****** SSSSSS
+BB      +*+*** STOP ****** SSSSSS
