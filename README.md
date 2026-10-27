@@ -15,7 +15,7 @@ All the code written for competitive programming contests, events and similar.
 | _**In-Person Competitions**_                           |                              |                                                                                              |
 | ![swerc-logo] [**ICPC SWERC**][swerc]                  |       _various teams_        | ![swerc-2024-pisa] ![swerc-2025-pisa]                                                        |
 | ![itacpc-logo] [**ITACPC**][itacpc]                    |       _various teams_        | ![itacpc-2023] ![itacpc-2024] ![itacpc-2025]                                                 |
-| ![unimi-logo] [**UNIMI SWERC**][unimi]                 |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025]                                                    |
+| ![unimi-logo] [**UNIMI SWERC**][unimi]                 |         Luca Favini          | ![unimi-2023] ![unimi-2024] ![unimi-2025] ![unimi-2026]                                      |
 | _**Online Judges**_                                    |                              |                                                                                              |
 | ![atcoder-logo] [**AtCoder**][atcoder]                 |  [Favo02][atcoder-profile]   | ![atcoder-contests] ![atcoder-rating] ![atcoder-max]                                         |
 | ![codeforces-logo] [**Codeforces**][codeforces]        | [Favo02][codeforces-profile] | ![codeforces-contests] ![codeforces-rating] ![codeforces-max]                                |
@@ -61,6 +61,7 @@ All the code written for competitive programming contests, events and similar.
 [unimi-2023]: https://img.shields.io/badge/2023-7th-white
 [unimi-2024]: https://img.shields.io/badge/2024-2nd-white
 [unimi-2025]: https://img.shields.io/badge/2025-6th-white
+[unimi-2026]: https://img.shields.io/badge/2026-upsolved-white
 
 <!-- AtCoder -->
 

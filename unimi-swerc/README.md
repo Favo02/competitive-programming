@@ -46,16 +46,33 @@ _The event was offline, so no solutions :(_
 - **_Score_**: 7 - **_Tiebraker_**: 09:11:04
 - **_Standings_**: 6th / 13
 
-| Problem                | Solution(s)                   | Result     |
-| ---------------------- | ----------------------------- | ---------- |
-| A - Svirgolando        | [A.py](./2025/A.py)           | ✅ 1 try   |
-| B - Caffè              | [B.py](./2025/B.py)           | ✅ 1 try   |
-| C - Classifica         | [C.py](./2025/C.py)           | ✅ 1 try   |
-| D - Monumenti          | [D.py](./2025/D.py)           | ✅ 1 tries |
-| E - Aiutanti           | [E.py](./2025/E.py)           | ✅ 5 tries |
-| F - Operazioni         | [F.py](./2025/F.py)           | ✅ 5 tries |
-| G - Mongolfiere        | [G.py](./2025/G.py)           | ✅ 5 tries |
-| H - Conta che ti passa | [H.py](./2025/upsolves/H.py)  | 📘Upsolve  |
-| I - La torta di Poldo  | [I.py](./2025/upsolves/I.cpp) | 📘Upsolve  |
+| Problem                | Solution(s)                    | Result     |
+| ---------------------- | ------------------------------ | ---------- |
+| A - Svirgolando        | [A.py](./2025/A.py)            | ✅ 1 try   |
+| B - Caffè              | [B.py](./2025/B.py)            | ✅ 1 try   |
+| C - Classifica         | [C.py](./2025/C.py)            | ✅ 1 try   |
+| D - Monumenti          | [D.py](./2025/D.py)            | ✅ 1 tries |
+| E - Aiutanti           | [E.py](./2025/E.py)            | ✅ 5 tries |
+| F - Operazioni         | [F.py](./2025/F.py)            | ✅ 5 tries |
+| G - Mongolfiere        | [G.py](./2025/G.py)            | ✅ 5 tries |
+| H - Conta che ti passa | [H.py](./2025/upsolves/H.py)   | 📘Upsolve  |
+| I - La torta di Poldo  | [I.cpp](./2025/upsolves/I.cpp) | 📘Upsolve  |
 
 _The event was offline, but I sneaked out the solutions :)_
+
+## 2026 edition
+
+_Unfortunately I was not in Milan, so only upsolving_
+
+| Problem                  | Solution(s)           | Result    |
+| ------------------------ | --------------------- | --------- |
+| A - Biglie               | [A.py](./2026/A.py)   | 📘Upsolve |
+| B - Restauro             | [B.py](./2026/B.py)   | 📘Upsolve |
+| C - Sponsor              | [C.py](./2026/C.py)   | 📘Upsolve |
+| D - Sfida in cucina      | [D.py](./2026/D.py)   | 📘Upsolve |
+| E - Parkour              | [E.py](./2026/E.py)   | 📘Upsolve |
+| F - to pay respect       | [F.py](./2026/F.py)   | 📘Upsolve |
+| G - Conta che ti passa 2 | [G.py](./2026/G.py)   | 📘Upsolve |
+| H - Altitudini           | [H.py](./2026/H.py)   | 📘Upsolve |
+| I - XOR art              | -                     | -         |
+| J - Taglia e ritaglia    | [J.cpp](./2026/J.cpp) | 📘Upsolve |
