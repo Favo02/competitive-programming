@@ -19,7 +19,7 @@ All the code written for competitive programming contests, events and similar.
 | _**Online Judges**_                                    |                              |                                                                                              |
 | ![atcoder-logo] [**AtCoder**][atcoder]                 |  [Favo02][atcoder-profile]   | ![atcoder-contests] ![atcoder-rating] ![atcoder-max]                                         |
 | ![codeforces-logo] [**Codeforces**][codeforces]        | [Favo02][codeforces-profile] | ![codeforces-contests] ![codeforces-rating] ![codeforces-max]                                |
-| ![leetcode-logo] [**LeetCode**][leetcode]'             |  [Favo02][leetcode-profile]  | ![leetcode-contests] ![leetcode-rating] ![leetcode-max]                                      |
+| ![leetcode-logo] [**LeetCode**][leetcode]'             |  [Favo02][leetcode-profile]  | ![leetcode-contests] ![leetcode-rating] ![leetcode-max] ![leetcode-solved]                   |
 | _**Training Platforms**_                               |                              |                                                                                              |
 | ![cses-logo] [**CSES**][cses]                          |    [Favo02][cses-profile]    | ![cses-solved]                                                                               |
 | ![olinfo-logo] [**Training OlInfo**][olinfo]           |   [Favo02][olinfo-profile]   | ![olinfo-points] ![olinfo-solved]                                                            |
@@ -89,6 +89,7 @@ All the code written for competitive programming contests, events and similar.
 [leetcode-contests]: https://img.shields.io/badge/Contests-11-FFA116
 [leetcode-rating]: https://img.shields.io/badge/Rating-1916-FFA116
 [leetcode-max]: https://img.shields.io/badge/Max_rating-1916-FFA116
+[leetcode-solved]: https://img.shields.io/badge/Solved_problems-451-FFA116
 
 <!-- CSES Problem Set -->
 
